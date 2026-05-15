@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://silverstrength-club.netlify.app/sitemap.xml
