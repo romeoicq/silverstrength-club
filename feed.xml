@@ -8,13 +8,23 @@
   <link>https://silverstrength-club.netlify.app/</link>
   <description>Practical tips on senior fitness, mobility exercises, resistance bands, strength training, nutrition, and healthy aging for adults 65+.</description>
   <language>en-us</language>
-  <lastBuildDate>Sat, 16 May 2026 20:00:00 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 17 May 2026 12:00:00 +0000</lastBuildDate>
   <atom:link href="https://silverstrength-club.netlify.app/feed.xml" rel="self" type="application/rss+xml"/>
   <image>
     <url>https://images.unsplash.com/photo-1518611012118-696072aa579a?w=400&q=80&fit=crop</url>
     <title>SilverStrength Club</title>
     <link>https://silverstrength-club.netlify.app/</link>
   </image>
+
+  <item>
+    <title>Low-Impact Cardio for Seniors — Safe Heart-Healthy Exercise at Home</title>
+    <link>https://silverstrength-club.netlify.app/blog/low-impact-cardio-seniors.html</link>
+    <guid isPermaLink="true">https://silverstrength-club.netlify.app/blog/low-impact-cardio-seniors.html</guid>
+    <description>Gentle, effective cardio exercises to boost your heart health, energy, and endurance — no gym required. Safe routines like walking, marching, and seated stepping for seniors 65+.</description>
+    <pubDate>Sun, 17 May 2026 12:00:00 +0000</pubDate>
+    <media:content url="https://images.unsplash.com/photo-1571008840902-28bf8f9cd71a?w=800&q=80&fit=crop" medium="image"/>
+    <category>Exercise</category>
+  </item>
 
   <item>
     <title>Social Connection for Seniors — Stay Connected, Live Longer</title>
