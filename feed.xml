@@ -8,13 +8,23 @@
   <link>https://silverstrength-club.netlify.app/</link>
   <description>Practical tips on senior fitness, mobility exercises, resistance bands, strength training, nutrition, and healthy aging for adults 65+.</description>
   <language>en-us</language>
-  <lastBuildDate>Sun, 17 May 2026 12:00:00 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 17 May 2026 20:00:00 +0000</lastBuildDate>
   <atom:link href="https://silverstrength-club.netlify.app/feed.xml" rel="self" type="application/rss+xml"/>
   <image>
     <url>https://images.unsplash.com/photo-1518611012118-696072aa579a?w=400&q=80&fit=crop</url>
     <title>SilverStrength Club</title>
     <link>https://silverstrength-club.netlify.app/</link>
   </image>
+
+  <item>
+    <title>Stress Reduction for Seniors — Simple Stress Management for a Calmer Life</title>
+    <link>https://silverstrength-club.netlify.app/blog/stress-reduction-seniors.html</link>
+    <guid isPermaLink="true">https://silverstrength-club.netlify.app/blog/stress-reduction-seniors.html</guid>
+    <description>Practical stress management tips for seniors 65+. Learn simple relaxation techniques, daily habits, and lifestyle changes to reduce stress and boost well-being.</description>
+    <pubDate>Sun, 17 May 2026 20:00:00 +0000</pubDate>
+    <media:content url="https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&q=80&fit=crop" medium="image"/>
+    <category>Wellness</category>
+  </item>
 
   <item>
     <title>Heart-Healthy Eating for Seniors — A Complete Guide to Cardiovascular Nutrition After 65</title>
