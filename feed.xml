@@ -8,13 +8,22 @@
   <link>https://silverstrength-club.netlify.app/</link>
   <description>Practical tips on senior fitness, mobility exercises.</description>
   <language>en-us</language>
-  <lastBuildDate>Mon, 18 May 2026 16:00:00 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 18 May 2026 18:42:38 +0000</lastBuildDate>
   <atom:link href="https://silverstrength-club.netlify.app/feed.xml" rel="self" type="application/rss+xml"/>
   <image>
     <url>https://images.unsplash.com/photo-1518611012118-696072aa579a?w=400&q=80&fit=crop</url>
     <title>SilverStrength Club</title>
     <link>https://silverstrength-club.netlify.app/</link>
   </image>
+  <item>
+    <title>The Complete Guide to Hobbies for Seniors 65+ - Find Meaningful Activities</title>
+    <link>https://silverstrength-club.netlify.app/blog/hobbies-for-seniors.html</link>
+    <guid isPermaLink="true">https://silverstrength-club.netlify.app/blog/hobbies-for-seniors.html</guid>
+    <description>Discover the best hobbies for seniors 65+. From gardening to brain games, find meaningful activities that boost health, happiness, and social connection.</description>
+    <pubDate>Mon, 18 May 2026 20:00:00 +0000</pubDate>
+    <media:content url="https://images.unsplash.com/photo-1490645935967-10de6ba17061?w=800&q=80&fit=crop" medium="image"/>
+    <category>Lifestyle</category>
+  </item>
   <item>
     <title>Stretching Routines for Seniors - Improve Flexibility and Reduce Stiffness</title>
     <link>https://silverstrength-club.netlify.app/blog/stretching-routines-seniors.html</link>
