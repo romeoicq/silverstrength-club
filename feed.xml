@@ -8,13 +8,23 @@
   <link>https://silverstrength-club.netlify.app/</link>
   <description>Practical tips on senior fitness, mobility exercises, resistance bands, strength training, nutrition, and healthy aging for adults 65+.</description>
   <language>en-us</language>
-  <lastBuildDate>Sun, 17 May 2026 20:00:00 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 18 May 2026 16:00:00 +0000</lastBuildDate>
   <atom:link href="https://silverstrength-club.netlify.app/feed.xml" rel="self" type="application/rss+xml"/>
   <image>
     <url>https://images.unsplash.com/photo-1518611012118-696072aa579a?w=400&q=80&fit=crop</url>
     <title>SilverStrength Club</title>
     <link>https://silverstrength-club.netlify.app/</link>
   </image>
+
+  <item>
+    <title>Diabetes-Friendly Eating for Seniors — Healthy Blood Sugar Guide</title>
+    <link>https://silverstrength-club.netlify.app/blog/diabetes-friendly-eating-seniors.html</link>
+    <guid isPermaLink="true">https://silverstrength-club.netlify.app/blog/diabetes-friendly-eating-seniors.html</guid>
+    <description>Simple, practical diabetes-friendly eating tips for seniors 65+. Learn how to manage blood sugar with delicious meals, smart swaps, and easy daily habits.</description>
+    <pubDate>Mon, 18 May 2026 16:00:00 +0000</pubDate>
+    <media:content url="https://images.unsplash.com/photo-1476224203421-9ac39bcb3327?w=800&q=80&fit=crop" medium="image"/>
+    <category>Nutrition</category>
+  </item>
 
   <item>
     <title>Stress Reduction for Seniors — Simple Stress Management for a Calmer Life</title>
@@ -214,16 +224,6 @@
     <pubDate>Wed, 06 May 2026 10:00:00 +0000</pubDate>
     <media:content url="https://images.unsplash.com/photo-1498837167922-d7b9cb7c3f1d?w=800&q=80&fit=crop" medium="image"/>
     <category>Nutrition</category>
-  </item>
-
-  <item>
-    <title>Heart-Healthy Eating for Seniors — A Complete Guide</title>
-    <link>https://silverstrength-club.netlify.app/blog/heart-healthy-eating-seniors.html</link>
-    <guid>https://silverstrength-club.netlify.app/blog/heart-healthy-eating-seniors.html</guid>
-    <description>Protect your heart after 65 with simple, delicious foods. A complete guide to heart-healthy eating for seniors — meal tips, recipes, and daily habits.</description>
-    <pubDate>Sun, 17 May 2026 16:00:00 +0000</pubDate>
-    <category>Nutrition</category>
-    <media:content url="https://images.unsplash.com/photo-1540189549336-e6e99c3679fe?w=800&amp;q=80&amp;fit=crop" medium="image"/>
   </item>
 </channel>
 </rss>
