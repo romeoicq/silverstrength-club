@@ -4,6 +4,17 @@
      xmlns:content="http://purl.org/rss/1.0/modules/content/"
      xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
+  <item>
+    <title>Walking Programs for Seniors — Complete Guide to Safe, Effective Walking</title>
+    <link>https://silverstrength-club.netlify.app/blog/walking-programs-for-seniors.html</link>
+    <guid isPermaLink="true">https://silverstrength-club.netlify.app/blog/walking-programs-for-seniors.html</guid>
+    <description>A step-by-step walking program for seniors 65+—the best walking shoes, a 4-week beginner plan, safety tips, and motivation for seniors.</description>
+    <pubDate>Tue, 19 May 2026 12:00:00 +0000</pubDate>
+    <media:content url="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800&amp;q=80&amp;fit=crop" medium="image"/>
+    <category>Exercise</category>
+  </item>
+
+
   <title>SilverStrength Club - Healthy Aging for Seniors 65+</title>
   <link>https://silverstrength-club.netlify.app/</link>
   <description>Practical tips on senior fitness, mobility exercises.</description>
