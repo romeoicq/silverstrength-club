@@ -1,270 +1,236 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0"
-     xmlns:atom="http://www.w3.org/2005/Atom"
-     xmlns:content="http://purl.org/rss/1.0/modules/content/"
-     xmlns:media="http://search.yahoo.com/mrss/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
   <title>SilverStrength Club — Healthy Aging for Seniors 65+</title>
   <link>https://silverstrength-club.netlify.app/</link>
-  <description>Practical tips on senior fitness, mobility exercises, resistance bands, strength training, and nutrition for healthy aging 65+.</description>
+  <description>Practical tips, routines, and insights for healthy aging. Senior fitness, mobility exercises, resistance bands, nutrition, and brain health for seniors 65+.</description>
   <language>en-us</language>
-  <lastBuildDate>Tue, 19 May 2026 14:00:00 +0000</lastBuildDate>
   <atom:link href="https://silverstrength-club.netlify.app/feed.xml" rel="self" type="application/rss+xml"/>
   <image>
-    <url>https://images.unsplash.com/photo-1518611012118-696072aa579a?w=400&q=80&fit=crop</url>
+    <url>https://silverstrength-club.netlify.app/favicon.ico</url>
     <title>SilverStrength Club</title>
     <link>https://silverstrength-club.netlify.app/</link>
   </image>
-
+  <item>
+    <title>Best Brain-Boosting Foods for Seniors — Complete Nutrition Guide</title>
+    <link>https://silverstrength-club.netlify.app/blog/brain-boosting-foods-seniors.html</link>
+    <guid>https://silverstrength-club.netlify.app/blog/brain-boosting-foods-seniors.html</guid>
+    <pubDate>Tue, 19 May 2026 12:00:00 +0000</pubDate>
+    <description></description>
+    <category>Nutrition</category>
+    <media:content url="https://images.unsplash.com/photo-1497366216548-37526070297c?w=800&q=80&fit=crop" medium="image"/>
+  </item>
   <item>
     <title>Walking Programs for Seniors — Complete Guide to Safe, Effective Walking</title>
     <link>https://silverstrength-club.netlify.app/blog/walking-programs-for-seniors.html</link>
-    <guid isPermaLink="true">https://silverstrength-club.netlify.app/blog/walking-programs-for-seniors.html</guid>
-    <description>A step-by-step walking program for seniors 65+—the best walking shoes, a 4-week beginner plan, safety tips, and motivation for seniors.</description>
+    <guid>https://silverstrength-club.netlify.app/blog/walking-programs-for-seniors.html</guid>
     <pubDate>Tue, 19 May 2026 12:00:00 +0000</pubDate>
-    <media:content url="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800&amp;q=80&amp;fit=crop" medium="image"/>
+    <description></description>
     <category>Exercise</category>
+    <media:content url="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800&q=80&fit=crop" medium="image"/>
   </item>
-
   <item>
     <title>The Complete Guide to Hobbies for Seniors 65+ — Find Meaningful Activities</title>
     <link>https://silverstrength-club.netlify.app/blog/hobbies-for-seniors.html</link>
-    <guid isPermaLink="true">https://silverstrength-club.netlify.app/blog/hobbies-for-seniors.html</guid>
-    <description>Discover the best hobbies for seniors 65+. From gardening to brain games, find meaningful activities that boost health, happiness, and social connection.</description>
-    <pubDate>Mon, 18 May 2026 20:00:00 +0000</pubDate>
-    <media:content url="https://images.unsplash.com/photo-1490645935967-10de6ba17061?w=800&amp;q=80&amp;fit=crop" medium="image"/>
-    <category>Lifestyle</category>
+    <guid>https://silverstrength-club.netlify.app/blog/hobbies-for-seniors.html</guid>
+    <pubDate>Tue, 19 May 2026 12:00:00 +0000</pubDate>
+    <description></description>
+    <category>Healthy Aging</category>
+    <media:content url="https://images.unsplash.com/photo-1490645935967-10de6ba17061?w=800&q=80&fit=crop" medium="image"/>
   </item>
-
   <item>
     <title>Stretching Routines for Seniors — Improve Flexibility and Reduce Stiffness</title>
     <link>https://silverstrength-club.netlify.app/blog/stretching-routines-seniors.html</link>
-    <guid isPermaLink="true">https://silverstrength-club.netlify.app/blog/stretching-routines-seniors.html</guid>
-    <description>Safe, gentle stretching routines for seniors 65+. Reduce stiffness and improve flexibility with simple daily stretches.</description>
-    <pubDate>Mon, 18 May 2026 17:00:00 +0000</pubDate>
-    <media:content url="https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?w=800&amp;q=80&amp;fit=crop" medium="image"/>
+    <guid>https://silverstrength-club.netlify.app/blog/stretching-routines-seniors.html</guid>
+    <pubDate>Tue, 19 May 2026 12:00:00 +0000</pubDate>
+    <description></description>
     <category>Exercise</category>
+    <media:content url="https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?w=800&q=80&fit=crop" medium="image"/>
   </item>
-
   <item>
     <title>Diabetes-Friendly Eating for Seniors — Healthy Blood Sugar Guide</title>
     <link>https://silverstrength-club.netlify.app/blog/diabetes-friendly-eating-seniors.html</link>
-    <guid isPermaLink="true">https://silverstrength-club.netlify.app/blog/diabetes-friendly-eating-seniors.html</guid>
-    <description>Simple, practical diabetes-friendly eating tips for seniors 65+. Learn how to manage blood sugar with delicious meals, smart swaps, and easy daily habits.</description>
-    <pubDate>Mon, 18 May 2026 16:00:00 +0000</pubDate>
-    <media:content url="https://images.unsplash.com/photo-1476224203421-9ac39bcb3327?w=800&amp;q=80&amp;fit=crop" medium="image"/>
+    <guid>https://silverstrength-club.netlify.app/blog/diabetes-friendly-eating-seniors.html</guid>
+    <pubDate>Tue, 19 May 2026 12:00:00 +0000</pubDate>
+    <description></description>
     <category>Nutrition</category>
+    <media:content url="https://images.unsplash.com/photo-1476224203421-9ac39bcb3327?w=800&q=80&fit=crop" medium="image"/>
   </item>
-
   <item>
-    <title>Stress Reduction for Seniors — Simple Ways to Manage Stress and Find Calm</title>
+    <title>Stress Reduction for Seniors — Simple Stress Management for a Calmer Life</title>
     <link>https://silverstrength-club.netlify.app/blog/stress-reduction-seniors.html</link>
-    <guid isPermaLink="true">https://silverstrength-club.netlify.app/blog/stress-reduction-seniors.html</guid>
-    <description>Practical stress management tips for seniors 65+. Learn simple relaxation techniques, daily habits, and lifestyle changes to reduce stress and boost well-being.</description>
-    <pubDate>Sun, 17 May 2026 20:00:00 +0000</pubDate>
-    <media:content url="https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&amp;q=80&amp;fit=crop" medium="image"/>
+    <guid>https://silverstrength-club.netlify.app/blog/stress-reduction-seniors.html</guid>
+    <pubDate>Tue, 19 May 2026 12:00:00 +0000</pubDate>
+    <description></description>
     <category>Wellness</category>
+    <media:content url="https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&q=80&fit=crop" medium="image"/>
   </item>
-
   <item>
     <title>Heart-Healthy Eating for Seniors — A Complete Guide</title>
     <link>https://silverstrength-club.netlify.app/blog/heart-healthy-eating-seniors.html</link>
-    <guid isPermaLink="true">https://silverstrength-club.netlify.app/blog/heart-healthy-eating-seniors.html</guid>
-    <description>Protect your heart after 65 with simple, delicious foods. A complete guide to heart-healthy eating for seniors — meal tips, recipes, and daily habits.</description>
-    <pubDate>Sun, 17 May 2026 16:00:00 +0000</pubDate>
-    <media:content url="https://images.unsplash.com/photo-1540189549336-e6e99c3679fe?w=800&amp;q=80&amp;fit=crop" medium="image"/>
+    <guid>https://silverstrength-club.netlify.app/blog/heart-healthy-eating-seniors.html</guid>
+    <pubDate>Tue, 19 May 2026 12:00:00 +0000</pubDate>
+    <description></description>
     <category>Nutrition</category>
+    <media:content url="https://images.unsplash.com/photo-1540189549336-e6e99c3679fe?w=800&q=80&fit=crop" medium="image"/>
   </item>
-
   <item>
     <title>Low-Impact Cardio for Seniors — Safe Heart-Healthy Exercise at Home</title>
     <link>https://silverstrength-club.netlify.app/blog/low-impact-cardio-seniors.html</link>
-    <guid isPermaLink="true">https://silverstrength-club.netlify.app/blog/low-impact-cardio-seniors.html</guid>
-    <description>Gentle, effective cardio exercises to boost your heart health, energy, and endurance — no gym required. Safe routines like walking, marching, and seated stepping for seniors 65+.</description>
-    <pubDate>Sun, 17 May 2026 12:00:00 +0000</pubDate>
-    <media:content url="https://images.unsplash.com/photo-1571008840902-28bf8f9cd71a?w=800&amp;q=80&amp;fit=crop" medium="image"/>
+    <guid>https://silverstrength-club.netlify.app/blog/low-impact-cardio-seniors.html</guid>
+    <pubDate>Tue, 19 May 2026 12:00:00 +0000</pubDate>
+    <description></description>
     <category>Exercise</category>
+    <media:content url="https://images.unsplash.com/photo-1571008840902-28bf8f9cd71a?w=800&q=80&fit=crop" medium="image"/>
   </item>
-
   <item>
     <title>Social Connection for Seniors — Stay Connected, Live Longer</title>
     <link>https://silverstrength-club.netlify.app/blog/social-connection-longevity.html</link>
-    <guid isPermaLink="true">https://silverstrength-club.netlify.app/blog/social-connection-longevity.html</guid>
-    <description>Strong social ties help seniors live longer, think sharper, and feel happier. Practical ways to build meaningful connections after 65.</description>
-    <pubDate>Sat, 16 May 2026 20:00:00 +0000</pubDate>
-    <media:content url="https://images.unsplash.com/photo-1576678927484-cc907957088c?w=800&amp;q=80&amp;fit=crop" medium="image"/>
+    <guid>https://silverstrength-club.netlify.app/blog/social-connection-longevity.html</guid>
+    <pubDate>Tue, 19 May 2026 12:00:00 +0000</pubDate>
+    <description></description>
     <category>Wellness</category>
+    <media:content url="https://images.unsplash.com/photo-1576678927484-cc907957088c?w=800&q=80&fit=crop" medium="image"/>
   </item>
-
   <item>
     <title>Hydration for Seniors — Stay Hydrated, Stay Healthy</title>
     <link>https://silverstrength-club.netlify.app/blog/hydration-for-seniors.html</link>
-    <guid isPermaLink="true">https://silverstrength-club.netlify.app/blog/hydration-for-seniors.html</guid>
-    <description>Why staying hydrated is harder after 65, warning signs of dehydration, and simple daily habits to drink more water. Essential hydration guide for seniors.</description>
-    <pubDate>Sat, 16 May 2026 16:00:00 +0000</pubDate>
-    <media:content url="https://images.unsplash.com/photo-1559757175-5700dde675bc?w=800&amp;q=80&amp;fit=crop" medium="image"/>
-    <category>Wellness</category>
+    <guid>https://silverstrength-club.netlify.app/blog/hydration-for-seniors.html</guid>
+    <pubDate>Tue, 19 May 2026 12:00:00 +0000</pubDate>
+    <description></description>
+    <category>Healthy Aging</category>
+    <media:content url="https://images.unsplash.com/photo-1559757175-5700dde675bc?w=800&q=80&fit=crop" medium="image"/>
   </item>
-
-  <item>
-    <title>Anti-Inflammatory Foods for Seniors — Eat Smart for Healthy Aging</title>
-    <link>https://silverstrength-club.netlify.app/blog/anti-inflammatory-foods-seniors.html</link>
-    <guid isPermaLink="true">https://silverstrength-club.netlify.app/blog/anti-inflammatory-foods-seniors.html</guid>
-    <description>Reduce joint pain and boost vitality with anti-inflammatory foods. Easy meal tips and a simple daily eating guide for seniors 65+.</description>
-    <pubDate>Thu, 14 May 2026 19:00:00 +0000</pubDate>
-    <media:content url="https://images.unsplash.com/photo-1455619452474-d2be8b1e70cd?w=800&amp;q=80&amp;fit=crop" medium="image"/>
-    <category>Nutrition</category>
-  </item>
-
-  <item>
-    <title>Sleep Tips for Seniors — Rest Better, Feel Better</title>
-    <link>https://silverstrength-club.netlify.app/blog/sleep-tips-seniors.html</link>
-    <guid isPermaLink="true">https://silverstrength-club.netlify.app/blog/sleep-tips-seniors.html</guid>
-    <description>Simple, natural strategies to improve sleep quality after 65, including evening routines and lifestyle changes.</description>
-    <pubDate>Thu, 14 May 2026 12:00:00 +0000</pubDate>
-    <media:content url="https://images.unsplash.com/photo-1552196563-55cd4e45efb3?w=800&amp;q=80&amp;fit=crop" medium="image"/>
-    <category>Wellness</category>
-  </item>
-
-  <item>
-    <title>Bone Health for Seniors — Stronger Bones After 65</title>
-    <link>https://silverstrength-club.netlify.app/blog/bone-health-seniors.html</link>
-    <guid isPermaLink="true">https://silverstrength-club.netlify.app/blog/bone-health-seniors.html</guid>
-    <description>Protect your bones with calcium, vitamin D, and safe exercises. A practical guide to bone density and osteoporosis prevention for seniors 65+.</description>
-    <pubDate>Sun, 10 May 2026 12:00:00 +0000</pubDate>
-    <media:content url="https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=800&amp;q=80&amp;fit=crop" medium="image"/>
-    <category>Nutrition</category>
-  </item>
-
-  <item>
-    <title>7 Nutrition Tips for Healthy Aging</title>
-    <link>https://silverstrength-club.netlify.app/blog/nutrition-tips.html</link>
-    <guid isPermaLink="true">https://silverstrength-club.netlify.app/blog/nutrition-tips.html</guid>
-    <description>Simple, practical nutrition guidance to support energy, brain health, and bone density as you age.</description>
-    <pubDate>Wed, 13 May 2026 16:00:00 +0000</pubDate>
-    <media:content url="https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d?w=800&amp;q=80&amp;fit=crop" medium="image"/>
-    <category>Nutrition</category>
-  </item>
-
-  <item>
-    <title>5 Essential Mobility Exercises for Seniors 65+</title>
-    <link>https://silverstrength-club.netlify.app/blog/mobility-exercises-seniors.html</link>
-    <guid isPermaLink="true">https://silverstrength-club.netlify.app/blog/mobility-exercises-seniors.html</guid>
-    <description>Simple, safe mobility exercises for seniors 65+ to boost balance, flexibility, and independence. Chair-friendly routines explained step by step.</description>
-    <pubDate>Wed, 13 May 2026 12:00:00 +0000</pubDate>
-    <media:content url="https://images.unsplash.com/photo-1552053831-71594a27632d?w=800&amp;q=80&amp;fit=crop" medium="image"/>
-    <category>Exercise</category>
-  </item>
-
-  <item>
-    <title>Chair Yoga for Seniors — Gentle Stretches for Better Mobility &amp; Flexibility</title>
-    <link>https://silverstrength-club.netlify.app/blog/chair-yoga-seniors.html</link>
-    <guid isPermaLink="true">https://silverstrength-club.netlify.app/blog/chair-yoga-seniors.html</guid>
-    <description>Safe, gentle chair yoga stretches for seniors 65+. Improve mobility, reduce stiffness, and boost balance — all from a chair.</description>
-    <pubDate>Sun, 10 May 2026 16:00:00 +0000</pubDate>
-    <media:content url="https://images.unsplash.com/photo-1518611012118-696072aa579a?w=800&amp;q=80&amp;fit=crop" medium="image"/>
-    <category>Exercise</category>
-  </item>
-
-  <item>
-    <title>Simple Resistance Band Routine for Seniors</title>
-    <link>https://silverstrength-club.netlify.app/blog/band-routine.html</link>
-    <guid isPermaLink="true">https://silverstrength-club.netlify.app/blog/band-routine.html</guid>
-    <description>A full-body resistance band workout designed for adults 65+. Easy on joints, big on results.</description>
-    <pubDate>Tue, 12 May 2026 16:00:00 +0000</pubDate>
-    <media:content url="https://images.unsplash.com/photo-1607960774189-a3b16c4bbb89?w=800&amp;q=80&amp;fit=crop" medium="image"/>
-    <category>Exercise</category>
-  </item>
-
-  <item>
-    <title>5 Best Mobility Drills for Seniors (No Equipment Needed)</title>
-    <link>https://silverstrength-club.netlify.app/blog/mobility-drills.html</link>
-    <guid isPermaLink="true">https://silverstrength-club.netlify.app/blog/mobility-drills.html</guid>
-    <description>Improve balance, flexibility, and confidence with these 5 simple daily exercises you can do from home.</description>
-    <pubDate>Tue, 12 May 2026 12:00:00 +0000</pubDate>
-    <media:content url="https://images.unsplash.com/photo-1558618666-fcd25c85f82e?w=800&amp;q=80&amp;fit=crop" medium="image"/>
-    <category>Exercise</category>
-  </item>
-
-  <item>
-    <title>Mindfulness for Seniors — A Simple Guide to Meditation &amp; Calm</title>
-    <link>https://silverstrength-club.netlify.app/blog/mindfulness-for-seniors.html</link>
-    <guid isPermaLink="true">https://silverstrength-club.netlify.app/blog/mindfulness-for-seniors.html</guid>
-    <description>Easy, gentle mindfulness and meditation techniques for seniors 65+. Reduce stress, sharpen focus, and find calm in just 5 minutes a day.</description>
-    <pubDate>Mon, 11 May 2026 16:00:00 +0000</pubDate>
-    <media:content url="https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=800&amp;q=80&amp;fit=crop" medium="image"/>
-    <category>Wellness</category>
-  </item>
-
-  <item>
-    <title>Brain Games for Seniors — Simple Mental Stimulation for a Sharp Mind</title>
-    <link>https://silverstrength-club.netlify.app/blog/brain-games-seniors.html</link>
-    <guid isPermaLink="true">https://silverstrength-club.netlify.app/blog/brain-games-seniors.html</guid>
-    <description>Boost memory, focus, and mental sharpness with simple brain games for seniors 65+. Fun daily exercises to keep your mind active and healthy.</description>
-    <pubDate>Mon, 11 May 2026 12:00:00 +0000</pubDate>
-    <media:content url="https://images.unsplash.com/photo-1571019614242-c5c5dee9f50b?w=800&amp;q=80&amp;fit=crop" medium="image"/>
-    <category>Brain Health</category>
-  </item>
-
   <item>
     <title>Balance Exercises for Seniors — Prevent Falls and Stay Steady</title>
     <link>https://silverstrength-club.netlify.app/blog/balance-exercises-seniors.html</link>
-    <guid isPermaLink="true">https://silverstrength-club.netlify.app/blog/balance-exercises-seniors.html</guid>
-    <description>Simple, safe balance exercises for seniors 65+. Improve stability, prevent falls, and build confidence with easy daily drills you can do at home.</description>
-    <pubDate>Sat, 09 May 2026 12:00:00 +0000</pubDate>
-    <media:content url="https://images.unsplash.com/photo-1540497077202-7c8a3999166f?w=800&amp;q=80&amp;fit=crop" medium="image"/>
+    <guid>https://silverstrength-club.netlify.app/blog/balance-exercises-seniors.html</guid>
+    <pubDate>Tue, 19 May 2026 12:00:00 +0000</pubDate>
+    <description></description>
     <category>Exercise</category>
+    <media:content url="https://images.unsplash.com/photo-1540497077202-7c8a3999166f?w=800&q=80&fit=crop" medium="image"/>
   </item>
-
   <item>
-    <title>Mobility and Fall Prevention — A Complete Guide for Seniors</title>
-    <link>https://silverstrength-club.netlify.app/mobility-fall-prevention.html</link>
-    <guid isPermaLink="true">https://silverstrength-club.netlify.app/mobility-fall-prevention.html</guid>
-    <description>Comprehensive guide to mobility and fall prevention for seniors. Learn exercises, home safety, and daily habits to stay steady and independent.</description>
-    <pubDate>Sat, 09 May 2026 10:00:00 +0000</pubDate>
-    <media:content url="https://images.unsplash.com/photo-1558618666-fcd25c85f82e?w=800&amp;q=80&amp;fit=crop" medium="image"/>
+    <title>Bone Health for Seniors — Stronger Bones After 65</title>
+    <link>https://silverstrength-club.netlify.app/blog/bone-health-seniors.html</link>
+    <guid>https://silverstrength-club.netlify.app/blog/bone-health-seniors.html</guid>
+    <pubDate>Tue, 19 May 2026 12:00:00 +0000</pubDate>
+    <description></description>
+    <category>Healthy Aging</category>
+    <media:content url="https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=800&q=80&fit=crop" medium="image"/>
+  </item>
+  <item>
+    <title>Chair Yoga for Seniors — Gentle Stretches for Mobility and Flexibility</title>
+    <link>https://silverstrength-club.netlify.app/blog/chair-yoga-seniors.html</link>
+    <guid>https://silverstrength-club.netlify.app/blog/chair-yoga-seniors.html</guid>
+    <pubDate>Tue, 19 May 2026 12:00:00 +0000</pubDate>
+    <description></description>
     <category>Exercise</category>
+    <media:content url="https://images.unsplash.com/photo-1518611012118-696072aa579a?w=800&q=80&fit=crop" medium="image"/>
   </item>
-
   <item>
-    <title>Resistance Bands for Seniors — A Complete Guide</title>
-    <link>https://silverstrength-club.netlify.app/resistance-bands-seniors.html</link>
-    <guid isPermaLink="true">https://silverstrength-club.netlify.app/resistance-bands-seniors.html</guid>
-    <description>Everything you need to know about resistance band training for seniors. Safe, joint-friendly strength exercises for healthy aging.</description>
-    <pubDate>Fri, 08 May 2026 10:00:00 +0000</pubDate>
-    <media:content url="https://images.unsplash.com/photo-1607960774189-a3b16c4bbb89?w=800&amp;q=80&amp;fit=crop" medium="image"/>
-    <category>Exercise</category>
-  </item>
-
-  <item>
-    <title>Strength Training Basics for Seniors 65+</title>
-    <link>https://silverstrength-club.netlify.app/strength-training-basics.html</link>
-    <guid isPermaLink="true">https://silverstrength-club.netlify.app/strength-training-basics.html</guid>
-    <description>Safe, effective strength training for seniors 65+. Build muscle, improve bone density, and maintain independence with simple exercises.</description>
-    <pubDate>Thu, 07 May 2026 10:00:00 +0000</pubDate>
-    <media:content url="https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=800&amp;q=80&amp;fit=crop" medium="image"/>
-    <category>Exercise</category>
-  </item>
-
-  <item>
-    <title>Nutrition and Vitality for Seniors — A Complete Guide</title>
-    <link>https://silverstrength-club.netlify.app/nutrition-vitality.html</link>
-    <guid isPermaLink="true">https://silverstrength-club.netlify.app/nutrition-vitality.html</guid>
-    <description>Essential nutrition guide for seniors 65+. Discover the best foods for energy, brain health, bone density, and healthy aging.</description>
-    <pubDate>Wed, 06 May 2026 10:00:00 +0000</pubDate>
-    <media:content url="https://images.unsplash.com/photo-1498837167922-d7b9cb7c3f1d?w=800&amp;q=80&amp;fit=crop" medium="image"/>
+    <title>Brain Games for Seniors — Mental Stimulation for a Sharp Mind</title>
+    <link>https://silverstrength-club.netlify.app/blog/brain-games-seniors.html</link>
+    <guid>https://silverstrength-club.netlify.app/blog/brain-games-seniors.html</guid>
+    <pubDate>Tue, 19 May 2026 12:00:00 +0000</pubDate>
+    <description></description>
     <category>Nutrition</category>
+    <media:content url="https://images.unsplash.com/photo-1571019614242-c5c5dee9f50b?w=800&q=80&fit=crop" medium="image"/>
   </item>
-
   <item>
-    <title>Contact SilverStrength Club</title>
-    <link>https://silverstrength-club.netlify.app/contact.html</link>
-    <guid isPermaLink="true">https://silverstrength-club.netlify.app/contact.html</guid>
-    <description>Get in touch with the SilverStrength community. Free weekly tips and healthy aging resources.</description>
-    <pubDate>Thu, 14 May 2026 12:00:00 +0000</pubDate>
-    <media:content url="https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=800&amp;q=80&amp;fit=crop" medium="image"/>
-    <category>Community</category>
+    <title>Mindfulness for Seniors — Simple Meditation Guide for Calm and Focus</title>
+    <link>https://silverstrength-club.netlify.app/blog/mindfulness-for-seniors.html</link>
+    <guid>https://silverstrength-club.netlify.app/blog/mindfulness-for-seniors.html</guid>
+    <pubDate>Tue, 19 May 2026 12:00:00 +0000</pubDate>
+    <description></description>
+    <category>Wellness</category>
+    <media:content url="https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=800&q=80&fit=crop" medium="image"/>
   </item>
-
+  <item>
+    <title>5 Best Mobility Drills for Seniors (No Equipment Needed)</title>
+    <link>https://silverstrength-club.netlify.app/blog/mobility-drills.html</link>
+    <guid>https://silverstrength-club.netlify.app/blog/mobility-drills.html</guid>
+    <pubDate>Tue, 19 May 2026 12:00:00 +0000</pubDate>
+    <description></description>
+    <category>Exercise</category>
+    <media:content url="https://images.unsplash.com/photo-1558618666-fcd25c85f82e?w=800&q=80&fit=crop" medium="image"/>
+  </item>
+  <item>
+    <title>Simple Resistance Band Routine for Seniors</title>
+    <link>https://silverstrength-club.netlify.app/blog/band-routine.html</link>
+    <guid>https://silverstrength-club.netlify.app/blog/band-routine.html</guid>
+    <pubDate>Tue, 19 May 2026 12:00:00 +0000</pubDate>
+    <description></description>
+    <category>Exercise</category>
+    <media:content url="https://images.unsplash.com/photo-1607960774189-a3b16c4bbb89?w=800&q=80&fit=crop" medium="image"/>
+  </item>
+  <item>
+    <title>5 Essential Mobility Exercises for Seniors 65+</title>
+    <link>https://silverstrength-club.netlify.app/blog/mobility-exercises-seniors.html</link>
+    <guid>https://silverstrength-club.netlify.app/blog/mobility-exercises-seniors.html</guid>
+    <pubDate>Tue, 19 May 2026 12:00:00 +0000</pubDate>
+    <description></description>
+    <category>Exercise</category>
+    <media:content url="https://images.unsplash.com/photo-1552053831-71594a27632d?w=800&q=80&fit=crop" medium="image"/>
+  </item>
+  <item>
+    <title>7 Nutrition Tips for Healthy Aging</title>
+    <link>https://silverstrength-club.netlify.app/blog/nutrition-tips.html</link>
+    <guid>https://silverstrength-club.netlify.app/blog/nutrition-tips.html</guid>
+    <pubDate>Tue, 19 May 2026 12:00:00 +0000</pubDate>
+    <description></description>
+    <category>Nutrition</category>
+    <media:content url="https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d?w=800&q=80&fit=crop" medium="image"/>
+  </item>
+  <item>
+    <title>Sleep Tips for Seniors — Rest Better, Feel Better</title>
+    <link>https://silverstrength-club.netlify.app/blog/sleep-tips-seniors.html</link>
+    <guid>https://silverstrength-club.netlify.app/blog/sleep-tips-seniors.html</guid>
+    <pubDate>Tue, 19 May 2026 12:00:00 +0000</pubDate>
+    <description></description>
+    <category>Wellness</category>
+    <media:content url="https://images.unsplash.com/photo-1552196563-55cd4e45efb3?w=800&q=80&fit=crop" medium="image"/>
+  </item>
+  <item>
+    <title>Anti-Inflammatory Foods for Seniors — Eat Smart for Healthy Aging</title>
+    <link>https://silverstrength-club.netlify.app/blog/anti-inflammatory-foods-seniors.html</link>
+    <guid>https://silverstrength-club.netlify.app/blog/anti-inflammatory-foods-seniors.html</guid>
+    <pubDate>Tue, 19 May 2026 12:00:00 +0000</pubDate>
+    <description></description>
+    <category>Nutrition</category>
+    <media:content url="https://images.unsplash.com/photo-1455619452474-d2be8b1e70cd?w=800&q=80&fit=crop" medium="image"/>
+  </item>
+  <item>
+    <title>Strength Training for Seniors — Build Muscle Safely After 65</title>
+    <link>https://silverstrength-club.netlify.app/strength-training-basics.html</link>
+    <guid>https://silverstrength-club.netlify.app/strength-training-basics.html</guid>
+    <pubDate>Tue, 19 May 2026 12:00:00 +0000</pubDate>
+    <description>Safe, effective strength training for seniors 65+. Build muscle, improve balance, maintain independence with these beginner-friendly exercises.</description>
+    <category>Healthy Aging</category>
+  </item>
+  <item>
+    <title>Resistance Bands for Seniors — A Complete Guide to Safe Strength Training</title>
+    <link>https://silverstrength-club.netlify.app/resistance-bands-seniors.html</link>
+    <guid>https://silverstrength-club.netlify.app/resistance-bands-seniors.html</guid>
+    <pubDate>Tue, 19 May 2026 12:00:00 +0000</pubDate>
+    <description>Complete guide to resistance band exercises for seniors 65+. Safe, joint-friendly strength training at home.</description>
+    <category>Healthy Aging</category>
+  </item>
+  <item>
+    <title>Mobility & Fall Prevention for Seniors — Stay Active and Independent</title>
+    <link>https://silverstrength-club.netlify.app/mobility-fall-prevention.html</link>
+    <guid>https://silverstrength-club.netlify.app/mobility-fall-prevention.html</guid>
+    <pubDate>Tue, 19 May 2026 12:00:00 +0000</pubDate>
+    <description>Essential mobility exercises and fall prevention strategies for seniors 65+. Stay steady, active, and independent.</description>
+    <category>Healthy Aging</category>
+  </item>
+  <item>
+    <title>Nutrition & Vitality for Seniors — Eat Well, Live Well After 65</title>
+    <link>https://silverstrength-club.netlify.app/nutrition-vitality.html</link>
+    <guid>https://silverstrength-club.netlify.app/nutrition-vitality.html</guid>
+    <pubDate>Tue, 19 May 2026 12:00:00 +0000</pubDate>
+    <description>Senior nutrition guide for healthy aging. Anti-inflammatory foods, brain health, and vitality tips for adults 65+.</description>
+    <category>Healthy Aging</category>
+  </item>
 </channel>
 </rss>
