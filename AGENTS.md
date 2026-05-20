@@ -45,6 +45,16 @@ Every page MUST have:
 - Body text: 18px+ base, 1.7 line height, high contrast (#1a1a2e on #faf9f6)
 - Decision-intent content: include "Best X for Seniors" or buying-guide sections
 
+### Writing Voice
+Every article should sound like a knowledgeable friend talking to seniors, not a textbook or blogspam:
+- Use contractions ("it's", "you'll", "don't")
+- Strip AI vocab: delve, pivotal, testament, underscore, vibrant (figurative), nestled, transformative, groundbreaking
+- Replace "serves as"/"stands as"/"represents a" with "is"/"are"
+- No signposting: no "let's dive in", "let's explore"
+- No generic conclusions: end with specific next steps
+- Vary sentence rhythm — mix short and long sentences
+- Have opinions — it's OK to say "this is worth trying"
+
 ### Deployment
 ```bash
 # Deploy via Netlify ZIP API
