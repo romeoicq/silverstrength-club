@@ -1,0 +1,116 @@
+# SilverStrength Club — Complete Site Guide
+
+## Site Overview
+
+**SilverStrength Club** is a health and fitness website for adults aged 65+. All content is written for seniors, using 18px+ body text, high contrast, simple language, and practical step-by-step instructions. The site covers mobility, strength training, resistance bands, nutrition, brain health, fall prevention, and lifestyle wellness.
+
+- **URL**: https://silverstrength-club.netlify.app/
+- **Audience**: Seniors 65+ and their caregivers
+- **Tone**: Encouraging, practical, evidence-based
+- **Font size**: 18px+ for senior readability
+
+## Navigation Structure
+
+The site uses a sticky dark navigation bar with these links:
+- **Home** (`/`) — Landing page with hero, feature cards, and CTA
+- **Mobility** (`/mobility-fall-prevention.html`) — Fall prevention and mobility exercises
+- **Bands** (`/resistance-bands-seniors.html`) — Resistance band workouts for seniors
+- **Strength** (`/strength-training-basics.html`) — Safe strength training
+- **Nutrition** (`/nutrition-vitality.html`) — Nutrition and healthy eating
+- **About** (`/about.html`) — About the site
+- **Contact** (`/contact.html`) — Contact form
+- **Blog** (`/blog/`) — All articles
+
+## Content Pillars
+
+### 1. Mobility & Fall Prevention
+Keyword focus: fall prevention, mobility exercises, balance training, stability.
+Key pages: mobility-fall-prevention.html (pillar), balance-exercises-seniors.html, mobility-exercises-seniors.html, mobility-drills.html, walking-programs-for-seniors.html, stretching-routines-seniors.html
+
+### 2. Strength & Resistance Training
+Keyword focus: strength training, resistance bands, senior exercise equipment.
+Key pages: strength-training-basics.html (pillar), resistance-bands-seniors.html (pillar), band-routine.html
+
+### 3. Nutrition & Vitality
+Keyword focus: senior nutrition, anti-inflammatory diet, heart health, bone health.
+Key pages: nutrition-vitality.html (pillar), nutrition-tips.html, anti-inflammatory-foods-seniors.html, bone-health-seniors.html, heart-healthy-eating-seniors.html, diabetes-friendly-eating-seniors.html, brain-boosting-foods-seniors.html, hydration-for-seniors.html
+
+### 4. Mental Health & Lifestyle
+Keyword focus: brain training, mindfulness, sleep, stress, social connection.
+Key pages: brain-games-seniors.html, mindfulness-for-seniors.html, sleep-tips-seniors.html, stress-reduction-seniors.html, social-connection-longevity.html, hobbies-for-seniors.html, tech-guide-for-seniors.html
+
+### 5. Low-Impact Cardio
+Key pages: low-impact-cardio-seniors.html, walking-programs-for-seniors.html, chair-yoga-seniors.html
+
+## Content Format
+
+Every article follows this structure:
+- Page header with gradient background, h1 title, and subtitle
+- Featured image (2:1 aspect ratio, Unsplash photography)
+- Published date and author byline
+- Body content with h2 sections, h3 subsections, tip-boxes, lists
+- FAQ section (where applicable)
+- Related articles grid (3 cards)
+- Standard navigation and footer
+
+## SEO Metadata
+All pages include:
+- Open Graph tags (title, description, image, url, site_name, locale, type)
+- Twitter Card tags (summary_large_image)
+- Canonical URL
+- JSON-LD schemas: BreadcrumbList, Article (on blog posts), FAQPage (where applicable), WebSite (on homepage), Organization (on homepage)
+- Meta description (150-160 chars)
+- Meta robots (index, follow, max-image-preview:large)
+
+## Technical Notes
+- HTML is self-contained — one file per page, no external CSS or JS dependencies
+- CSS in inline <style> blocks
+- Navigation HTML is duplicated across all pages
+- Hosted on Netlify
+- Deployed via Netlify ZIP API (not GitHub auto-deploy)
+- Server-side rendered (no JavaScript required for content)
+- Web fonts: system-ui stack (no external font loading)
+- Mobile responsive with media query at 600px breakpoint
+- No cookies or tracking beyond GTM/GA4
+
+## Architecture
+```
+/ (root)
+├── index.html              # Landing page
+├── mobility-fall-prevention.html
+├── resistance-bands-seniors.html
+├── strength-training-basics.html
+├── nutrition-vitality.html
+├── about.html
+├── contact.html
+├── robots.txt
+├── sitemap.xml
+├── feed.xml
+├── llms.txt
+├── llms-full.txt
+├── AGENTS.md
+├── google2eebf7195a34df4b.html  # Search Console verification
+└── blog/
+    ├── index.html           # Blog hub
+    ├── balance-exercises-seniors.html
+    ├── band-routine.html
+    ├── bone-health-seniors.html
+    ├── brain-boosting-foods-seniors.html
+    ├── brain-games-seniors.html
+    ├── chair-yoga-seniors.html
+    ├── diabetes-friendly-eating-seniors.html
+    ├── heart-healthy-eating-seniors.html
+    ├── hobbies-for-seniors.html
+    ├── hydration-for-seniors.html
+    ├── low-impact-cardio-seniors.html
+    ├── mindfulness-for-seniors.html
+    ├── mobility-drills.html
+    ├── mobility-exercises-seniors.html
+    ├── nutrition-tips.html
+    ├── sleep-tips-seniors.html
+    ├── social-connection-longevity.html
+    ├── stress-reduction-seniors.html
+    ├── stretching-routines-seniors.html
+    ├── tech-guide-for-seniors.html
+    └── walking-programs-for-seniors.html
+```
