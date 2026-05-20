@@ -1,3 +1,0 @@
-# Netlify redirects
-# Serve AGENTS.md with text/plain content type for AI agents
-/AGENTS.md  /.netlify/images?url=/AGENTS.md&fm=txt  200
