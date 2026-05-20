@@ -83,12 +83,17 @@ All pages include:
 ├── nutrition-vitality.html
 ├── about.html
 ├── contact.html
-├── robots.txt
-├── sitemap.xml
-├── feed.xml
-├── llms.txt
-├── llms-full.txt
-├── AGENTS.md
+├── robots.txt              # AI bot allowlist + Content-Signal + sitemap
+├── sitemap.xml             # All URLs with lastmod
+├── feed.xml                # RSS feed
+├── llms.txt                # AI short site guide (llmstxt.org)
+├── llms-full.txt           # AI comprehensive site guide
+├── AGENTS.md               # Coding agent guide
+├── favicon.svg             # SVG favicon
+├── favicon.ico             # Multi-size fallback favicon
+├── apple-touch-icon.png    # 180x180 touch icon
+├── icon-192x192.png        # PWA icon 192px
+├── icon-512x512.png        # PWA icon 512px
 ├── google2eebf7195a34df4b.html  # Search Console verification
 └── blog/
     ├── index.html           # Blog hub

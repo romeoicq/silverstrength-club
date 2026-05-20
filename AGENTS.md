@@ -34,6 +34,8 @@ Every page MUST have:
 - `<meta name="robots" content="index, follow, max-image-preview:large">`
 - JSON-LD: BreadcrumbList + Article (blog posts) + Organization (homepage)
 - Google Tag Manager (head script + noscript body tag)
+- Full favicon set: favicon.svg, apple-touch-icon.png (180x180), icon-192x192.png, icon-512x512.png, favicon.ico
+- og:title and twitter:title must exactly match <title> (including " — SilverStrength Club" suffix)
 
 ### Content Standards
 - Minimum 5 h2 sections per article
