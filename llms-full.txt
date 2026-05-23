@@ -4,7 +4,7 @@
 
 **SilverStrength Club** is a health and fitness website for adults aged 65+. All content is written for seniors, using 18px+ body text, high contrast, simple language, and practical step-by-step instructions. The site covers mobility, strength training, resistance bands, nutrition, brain health, fall prevention, and lifestyle wellness.
 
-- **URL**: https://silverstrength-club.netlify.app/
+- **URL**: https://silverstrength.club/
 - **Audience**: Seniors 65+ and their caregivers
 - **Tone**: Encouraging, practical, evidence-based
 - **Font size**: 18px+ for senior readability

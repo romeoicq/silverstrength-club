@@ -1,0 +1,2 @@
+# Redirect old Netlify preview domain to custom domain
+https://silverstrength-club.netlify.app/*  https://silverstrength.club/:splat  301!

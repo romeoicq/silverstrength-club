@@ -36,4 +36,4 @@ Disallow: /articles/  # old directory, no content here
 Content-Signal: human-authored, editorial, fact-checked
 
 # Sitemaps
-Sitemap: https://silverstrength-club.netlify.app/sitemap.xml
+Sitemap: https://silverstrength.club/sitemap.xml

@@ -3,17 +3,17 @@
 > Expert-guided fitness, mobility, strength training, and nutrition advice built specifically for adults 65+. Learn how to stay strong, mobile, and independent at any age.
 
 ## Key Pages
-- [Home](https://silverstrength-club.netlify.app/) — SilverStrength Club homepage
-- [Mobility & Fall Prevention](https://silverstrength-club.netlify.app/mobility-fall-prevention.html) — Daily mobility exercises and fall prevention strategies
-- [Resistance Bands for Seniors](https://silverstrength-club.netlify.app/resistance-bands-seniors.html) — Complete resistance band workout guide
-- [Strength Training Basics](https://silverstrength-club.netlify.app/strength-training-basics.html) — Safe strength training for older adults
-- [Nutrition & Vitality](https://silverstrength-club.netlify.app/nutrition-vitality.html) — Healthy aging nutrition guide
-- [Blog](https://silverstrength-club.netlify.app/blog/) — All articles on senior health, fitness, and wellness
-- [About](https://silverstrength-club.netlify.app/about.html) — About SilverStrength Club
-- [Contact](https://silverstrength-club.netlify.app/contact.html) — Get in touch
+- [Home](https://silverstrength.club/) — SilverStrength Club homepage
+- [Mobility & Fall Prevention](https://silverstrength.club/mobility-fall-prevention.html) — Daily mobility exercises and fall prevention strategies
+- [Resistance Bands for Seniors](https://silverstrength.club/resistance-bands-seniors.html) — Complete resistance band workout guide
+- [Strength Training Basics](https://silverstrength.club/strength-training-basics.html) — Safe strength training for older adults
+- [Nutrition & Vitality](https://silverstrength.club/nutrition-vitality.html) — Healthy aging nutrition guide
+- [Blog](https://silverstrength.club/blog/) — All articles on senior health, fitness, and wellness
+- [About](https://silverstrength.club/about.html) — About SilverStrength Club
+- [Contact](https://silverstrength.club/contact.html) — Get in touch
 
 ## RSS Feed
-- [Feed](https://silverstrength-club.netlify.app/feed.xml) — Subscribe to new articles
+- [Feed](https://silverstrength.club/feed.xml) — Subscribe to new articles
 
 ## More Information
-For the full site guide, see [llms-full.txt](https://silverstrength-club.netlify.app/llms-full.txt)
+For the full site guide, see [llms-full.txt](https://silverstrength.club/llms-full.txt)
