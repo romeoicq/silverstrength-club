@@ -1,390 +1,384 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
-  <channel>
-    <title>SilverStrength Club — Healthy Aging for Seniors 65+</title>
+<channel>
+  <title>SilverStrength Club — Healthy Aging for Seniors 65+</title>
+  <link>https://silverstrength.club/</link>
+  <description>Practical fitness, nutrition, and lifestyle guidance for seniors 65+. Evidence-based articles on strength training, mobility, healthy eating, mental wellness, and active aging.</description>
+  <language>en-us</language>
+  <atom:link href="https://silverstrength.club/feed.xml" rel="self" type="application/rss+xml"/>
+  <image>
+    <url>https://silverstrength.club/favicon.svg</url>
+    <title>SilverStrength Club</title>
     <link>https://silverstrength.club/</link>
-    <description>Practical tips, routines, and insights for healthy aging. Senior fitness, mobility exercises, resistance bands, nutrition, and brain health for seniors 65+.</description>
-    <language>en-us</language>
-    <atom:link href="https://silverstrength.club/feed.xml" rel="self" type="application/rss+xml"/>
-    <image>
-      <url>https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=800&amp;q=80&amp;fit=crop</url>
-      <title>SilverStrength Club</title>
-      <link>https://silverstrength.club/</link>
-    </image>
+  </image>
   <item>
-    <title>Best Protein for Seniors — Complete Guide to Muscle After 65</title>
-    <link>https://silverstrength.club/blog/best-protein-for-seniors.html</link>
-    <guid isPermaLink="true">https://silverstrength.club/blog/best-protein-for-seniors.html</guid>
-    <description>Why protein matters more after 65, how much you actually need, and the best foods and supplements to maintain muscle and strength as you age.</description>
-    <pubDate>Sat, 24 May 2026 16:00:00 +0000</pubDate>
-    <category>Nutrition &amp; Wellness</category>
-    <media:content url="https://images.unsplash.com/photo-1574484284002-952d92456975?w=800&amp;q=80&amp;fit=crop" medium="image"/>
+    <title>Strength Training Basics for Seniors 65+</title>
+    <link>https://silverstrength.club/strength-training-basics.html</link>
+    <guid isPermaLink="true">https://silverstrength.club/strength-training-basics.html</guid>
+    <description>Complete guide to safe, effective strength training for older adults — build muscle, protect bones, and stay independent.</description>
+    <pubDate>Fri, 01 May 2026 12:00:00 +0000</pubDate>
+    <media:content url="https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=800&amp;q=80&amp;fit=crop" medium="image"/>
+    <category>Senior Health</category>
   </item>
   <item>
-    <title>Complete Guide to Downsizing for Seniors — Declutter &amp; Rightsize After 65</title>
-    <link>https://silverstrength-club.netlify.app/blog/downsizing-guide-seniors.html</link>
-    <guid isPermaLink="true">https://silverstrength-club.netlify.app/blog/downsizing-guide-seniors.html</guid>
-    <description>A step-by-step downsizing guide for seniors 65+. Learn how to declutter your home, choose the right moving service, and rightsize your life — without the stress.</description>
-    <pubDate>Sat, 24 May 2026 20:00:00 +0000</pubDate>
-    <category>Lifestyle</category>
-    <category>Downsizing</category>
-    <category>Senior Living</category>
-    <media:content url="https://images.unsplash.com/photo-1505576399279-565b52d4ac71?w=800&amp;q=80&amp;fit=crop" medium="image"/>
+    <title>Resistance Bands for Seniors: Complete Training Guide</title>
+    <link>https://silverstrength.club/resistance-bands-seniors.html</link>
+    <guid isPermaLink="true">https://silverstrength.club/resistance-bands-seniors.html</guid>
+    <description>Everything seniors need to know about resistance band training — safe, portable strength training for building muscle after 65.</description>
+    <pubDate>Fri, 01 May 2026 12:00:00 +0000</pubDate>
+    <media:content url="https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=800&amp;q=80&amp;fit=crop" medium="image"/>
+    <category>Senior Health</category>
   </item>
-
-
+  <item>
+    <title>Nutrition and Vitality for Seniors 65+</title>
+    <link>https://silverstrength.club/nutrition-vitality.html</link>
+    <guid isPermaLink="true">https://silverstrength.club/nutrition-vitality.html</guid>
+    <description>Evidence-based nutrition guidance for healthy aging — what to eat, what to avoid, and how to thrive after 65.</description>
+    <pubDate>Fri, 01 May 2026 12:00:00 +0000</pubDate>
+    <media:content url="https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=800&amp;q=80&amp;fit=crop" medium="image"/>
+    <category>Senior Health</category>
+  </item>
+  <item>
+    <title>Mobility and Fall Prevention for Seniors 65+</title>
+    <link>https://silverstrength.club/mobility-fall-prevention.html</link>
+    <guid isPermaLink="true">https://silverstrength.club/mobility-fall-prevention.html</guid>
+    <description>Practical mobility exercises and fall prevention strategies for seniors — stay active, steady, and independent.</description>
+    <pubDate>Fri, 01 May 2026 12:00:00 +0000</pubDate>
+    <media:content url="https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=800&amp;q=80&amp;fit=crop" medium="image"/>
+    <category>Senior Health</category>
+  </item>
+  <item>
+    <title>Anti-Inflammatory Foods for Seniors — Eat Smart for Healthy Aging</title>
+    <link>https://silverstrength.club/blog/anti-inflammatory-foods-seniors.html</link>
+    <guid isPermaLink="true">https://silverstrength.club/blog/anti-inflammatory-foods-seniors.html</guid>
+    <description></description>
+    <pubDate>Fri, 01 May 2026 12:00:00 +0000</pubDate>
+    <media:content url="https://images.unsplash.com/photo-1455619452474-d2be8b1e70cd?w=800&amp;q=80&amp;fit=crop" medium="image"/>
+    <category>Senior Health</category>
+  </item>
+  <item>
+    <title>Sleep Tips for Seniors — Rest Better, Feel Better</title>
+    <link>https://silverstrength.club/blog/sleep-tips-seniors.html</link>
+    <guid isPermaLink="true">https://silverstrength.club/blog/sleep-tips-seniors.html</guid>
+    <description></description>
+    <pubDate>Fri, 01 May 2026 12:00:00 +0000</pubDate>
+    <media:content url="https://images.unsplash.com/photo-1552196563-55cd4e45efb3?w=800&amp;q=80&amp;fit=crop" medium="image"/>
+    <category>Senior Health</category>
+  </item>
+  <item>
+    <title>7 Nutrition Tips for Healthy Aging</title>
+    <link>https://silverstrength.club/blog/nutrition-tips.html</link>
+    <guid isPermaLink="true">https://silverstrength.club/blog/nutrition-tips.html</guid>
+    <description></description>
+    <pubDate>Fri, 01 May 2026 12:00:00 +0000</pubDate>
+    <media:content url="https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d?w=800&amp;q=80&amp;fit=crop" medium="image"/>
+    <category>Senior Health</category>
+  </item>
+  <item>
+    <title>5 Essential Mobility Exercises for Seniors 65+</title>
+    <link>https://silverstrength.club/blog/mobility-exercises-seniors.html</link>
+    <guid isPermaLink="true">https://silverstrength.club/blog/mobility-exercises-seniors.html</guid>
+    <description></description>
+    <pubDate>Fri, 01 May 2026 12:00:00 +0000</pubDate>
+    <media:content url="https://images.unsplash.com/photo-1552053831-71594a27632d?w=800&amp;q=80&amp;fit=crop" medium="image"/>
+    <category>Senior Health</category>
+  </item>
+  <item>
+    <title>Simple Resistance Band Routine for Seniors</title>
+    <link>https://silverstrength.club/blog/band-routine.html</link>
+    <guid isPermaLink="true">https://silverstrength.club/blog/band-routine.html</guid>
+    <description></description>
+    <pubDate>Fri, 01 May 2026 12:00:00 +0000</pubDate>
+    <media:content url="https://images.unsplash.com/photo-1607960774189-a3b16c4bbb89?w=800&amp;q=80&amp;fit=crop" medium="image"/>
+    <category>Senior Health</category>
+  </item>
+  <item>
+    <title>5 Best Mobility Drills for Seniors (No Equipment Needed)</title>
+    <link>https://silverstrength.club/blog/mobility-drills.html</link>
+    <guid isPermaLink="true">https://silverstrength.club/blog/mobility-drills.html</guid>
+    <description></description>
+    <pubDate>Fri, 01 May 2026 12:00:00 +0000</pubDate>
+    <media:content url="https://images.unsplash.com/photo-1558618666-fcd25c85f82e?w=800&amp;q=80&amp;fit=crop" medium="image"/>
+    <category>Senior Health</category>
+  </item>
+  <item>
+    <title>Mindfulness for Seniors — Simple Meditation Guide for Calm and Focus</title>
+    <link>https://silverstrength.club/blog/mindfulness-for-seniors.html</link>
+    <guid isPermaLink="true">https://silverstrength.club/blog/mindfulness-for-seniors.html</guid>
+    <description></description>
+    <pubDate>Fri, 01 May 2026 12:00:00 +0000</pubDate>
+    <media:content url="https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=800&amp;q=80&amp;fit=crop" medium="image"/>
+    <category>Senior Health</category>
+  </item>
+  <item>
+    <title>Brain Games for Seniors — Mental Stimulation for a Sharp Mind</title>
+    <link>https://silverstrength.club/blog/brain-games-seniors.html</link>
+    <guid isPermaLink="true">https://silverstrength.club/blog/brain-games-seniors.html</guid>
+    <description></description>
+    <pubDate>Fri, 01 May 2026 12:00:00 +0000</pubDate>
+    <media:content url="https://images.unsplash.com/photo-1571019614242-c5c5dee9f50b?w=800&amp;q=80&amp;fit=crop" medium="image"/>
+    <category>Senior Health</category>
+  </item>
+  <item>
+    <title>Chair Yoga for Seniors — Gentle Stretches for Mobility and Flexibility</title>
+    <link>https://silverstrength.club/blog/chair-yoga-seniors.html</link>
+    <guid isPermaLink="true">https://silverstrength.club/blog/chair-yoga-seniors.html</guid>
+    <description></description>
+    <pubDate>Fri, 01 May 2026 12:00:00 +0000</pubDate>
+    <media:content url="https://images.unsplash.com/photo-1518611012118-696072aa579a?w=800&amp;q=80&amp;fit=crop" medium="image"/>
+    <category>Senior Health</category>
+  </item>
+  <item>
+    <title>Bone Health for Seniors — Stronger Bones After 65</title>
+    <link>https://silverstrength.club/blog/bone-health-seniors.html</link>
+    <guid isPermaLink="true">https://silverstrength.club/blog/bone-health-seniors.html</guid>
+    <description></description>
+    <pubDate>Fri, 01 May 2026 12:00:00 +0000</pubDate>
+    <media:content url="https://images.unsplash.com/photo-1434596922112-19c563067271?w=800&amp;q=80&amp;fit=crop" medium="image"/>
+    <category>Senior Health</category>
+  </item>
+  <item>
+    <title>Balance Exercises for Seniors — Prevent Falls and Stay Steady</title>
+    <link>https://silverstrength.club/blog/balance-exercises-seniors.html</link>
+    <guid isPermaLink="true">https://silverstrength.club/blog/balance-exercises-seniors.html</guid>
+    <description></description>
+    <pubDate>Fri, 01 May 2026 12:00:00 +0000</pubDate>
+    <media:content url="https://images.unsplash.com/photo-1540497077202-7c8a3999166f?w=800&amp;q=80&amp;fit=crop" medium="image"/>
+    <category>Senior Health</category>
+  </item>
+  <item>
+    <title>Hydration for Seniors — Stay Hydrated, Stay Healthy</title>
+    <link>https://silverstrength.club/blog/hydration-for-seniors.html</link>
+    <guid isPermaLink="true">https://silverstrength.club/blog/hydration-for-seniors.html</guid>
+    <description></description>
+    <pubDate>Fri, 01 May 2026 12:00:00 +0000</pubDate>
+    <media:content url="https://images.unsplash.com/photo-1559757175-5700dde675bc?w=800&amp;q=80&amp;fit=crop" medium="image"/>
+    <category>Senior Health</category>
+  </item>
+  <item>
+    <title>Social Connection for Seniors — Stay Connected, Live Longer</title>
+    <link>https://silverstrength.club/blog/social-connection-longevity.html</link>
+    <guid isPermaLink="true">https://silverstrength.club/blog/social-connection-longevity.html</guid>
+    <description></description>
+    <pubDate>Fri, 01 May 2026 12:00:00 +0000</pubDate>
+    <media:content url="https://images.unsplash.com/photo-1576678927484-cc907957088c?w=800&amp;q=80&amp;fit=crop" medium="image"/>
+    <category>Senior Health</category>
+  </item>
+  <item>
+    <title>Low-Impact Cardio for Seniors — Safe Heart-Healthy Exercise at Home</title>
+    <link>https://silverstrength.club/blog/low-impact-cardio-seniors.html</link>
+    <guid isPermaLink="true">https://silverstrength.club/blog/low-impact-cardio-seniors.html</guid>
+    <description></description>
+    <pubDate>Fri, 01 May 2026 12:00:00 +0000</pubDate>
+    <media:content url="https://images.unsplash.com/photo-1571008840902-28bf8f9cd71a?w=800&amp;q=80&amp;fit=crop" medium="image"/>
+    <category>Senior Health</category>
+  </item>
+  <item>
+    <title>Heart-Healthy Eating for Seniors — A Complete Guide</title>
+    <link>https://silverstrength.club/blog/heart-healthy-eating-seniors.html</link>
+    <guid isPermaLink="true">https://silverstrength.club/blog/heart-healthy-eating-seniors.html</guid>
+    <description></description>
+    <pubDate>Fri, 01 May 2026 12:00:00 +0000</pubDate>
+    <media:content url="https://images.unsplash.com/photo-1540189549336-e6e99c3679fe?w=800&amp;q=80&amp;fit=crop" medium="image"/>
+    <category>Senior Health</category>
+  </item>
+  <item>
+    <title>Stress Reduction for Seniors — Simple Stress Management for a Calmer Life</title>
+    <link>https://silverstrength.club/blog/stress-reduction-seniors.html</link>
+    <guid isPermaLink="true">https://silverstrength.club/blog/stress-reduction-seniors.html</guid>
+    <description></description>
+    <pubDate>Fri, 01 May 2026 12:00:00 +0000</pubDate>
+    <media:content url="https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&amp;q=80&amp;fit=crop" medium="image"/>
+    <category>Senior Health</category>
+  </item>
+  <item>
+    <title>Diabetes-Friendly Eating for Seniors — Healthy Blood Sugar Guide</title>
+    <link>https://silverstrength.club/blog/diabetes-friendly-eating-seniors.html</link>
+    <guid isPermaLink="true">https://silverstrength.club/blog/diabetes-friendly-eating-seniors.html</guid>
+    <description></description>
+    <pubDate>Fri, 01 May 2026 12:00:00 +0000</pubDate>
+    <media:content url="https://images.unsplash.com/photo-1476224203421-9ac39bcb3327?w=800&amp;q=80&amp;fit=crop" medium="image"/>
+    <category>Senior Health</category>
+  </item>
+  <item>
+    <title>Stretching Routines for Seniors — Improve Flexibility and Reduce Stiffness</title>
+    <link>https://silverstrength.club/blog/stretching-routines-seniors.html</link>
+    <guid isPermaLink="true">https://silverstrength.club/blog/stretching-routines-seniors.html</guid>
+    <description></description>
+    <pubDate>Fri, 01 May 2026 12:00:00 +0000</pubDate>
+    <media:content url="https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?w=800&amp;q=80&amp;fit=crop" medium="image"/>
+    <category>Senior Health</category>
+  </item>
+  <item>
+    <title>The Complete Guide to Hobbies for Seniors 65+ — Find Meaningful Activities</title>
+    <link>https://silverstrength.club/blog/hobbies-for-seniors.html</link>
+    <guid isPermaLink="true">https://silverstrength.club/blog/hobbies-for-seniors.html</guid>
+    <description></description>
+    <pubDate>Fri, 01 May 2026 12:00:00 +0000</pubDate>
+    <media:content url="https://images.unsplash.com/photo-1490645935967-10de6ba17061?w=800&amp;q=80&amp;fit=crop" medium="image"/>
+    <category>Senior Health</category>
+  </item>
+  <item>
+    <title>Walking Programs for Seniors — Complete Guide to Safe, Effective Walking</title>
+    <link>https://silverstrength.club/blog/walking-programs-for-seniors.html</link>
+    <guid isPermaLink="true">https://silverstrength.club/blog/walking-programs-for-seniors.html</guid>
+    <description></description>
+    <pubDate>Fri, 01 May 2026 12:00:00 +0000</pubDate>
+    <media:content url="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800&amp;q=80&amp;fit=crop" medium="image"/>
+    <category>Senior Health</category>
+  </item>
+  <item>
+    <title>Best Brain-Boosting Foods for Seniors — Complete Nutrition Guide</title>
+    <link>https://silverstrength.club/blog/brain-boosting-foods-seniors.html</link>
+    <guid isPermaLink="true">https://silverstrength.club/blog/brain-boosting-foods-seniors.html</guid>
+    <description></description>
+    <pubDate>Fri, 01 May 2026 12:00:00 +0000</pubDate>
+    <media:content url="https://images.unsplash.com/photo-1497366216548-37526070297c?w=800&amp;q=80&amp;fit=crop" medium="image"/>
+    <category>Senior Health</category>
+  </item>
+  <item>
+    <title>Tech Guide for Seniors — Best Devices, Apps, and Gadgets for Independent Living</title>
+    <link>https://silverstrength.club/blog/tech-guide-for-seniors.html</link>
+    <guid isPermaLink="true">https://silverstrength.club/blog/tech-guide-for-seniors.html</guid>
+    <description></description>
+    <pubDate>Fri, 01 May 2026 12:00:00 +0000</pubDate>
+    <media:content url="https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?w=800&amp;q=80&amp;fit=crop" medium="image"/>
+    <category>Senior Health</category>
+  </item>
+  <item>
+    <title>Senior Strength Training Guide — Build Muscle and Bone Density After 65</title>
+    <link>https://silverstrength.club/blog/senior-strength-training-guide.html</link>
+    <guid isPermaLink="true">https://silverstrength.club/blog/senior-strength-training-guide.html</guid>
+    <description></description>
+    <pubDate>Fri, 01 May 2026 12:00:00 +0000</pubDate>
+    <media:content url="https://images.unsplash.com/photo-1517836357463-d25dfeac3438?w=800&amp;q=80&amp;fit=crop" medium="image"/>
+    <category>Senior Health</category>
+  </item>
+  <item>
+    <title>Mediterranean Diet for Seniors — Complete Guide to Healthier Eating After 65</title>
+    <link>https://silverstrength.club/blog/mediterranean-diet-seniors.html</link>
+    <guid isPermaLink="true">https://silverstrength.club/blog/mediterranean-diet-seniors.html</guid>
+    <description></description>
+    <pubDate>Fri, 01 May 2026 12:00:00 +0000</pubDate>
+    <media:content url="https://images.unsplash.com/photo-1466637574441-749b8f19452f?w=800&amp;q=80&amp;fit=crop" medium="image"/>
+    <category>Senior Health</category>
+  </item>
+  <item>
+    <title>Financial Wellness for Seniors — Managing Money After 65</title>
+    <link>https://silverstrength.club/blog/financial-wellness-seniors.html</link>
+    <guid isPermaLink="true">https://silverstrength.club/blog/financial-wellness-seniors.html</guid>
+    <description></description>
+    <pubDate>Fri, 01 May 2026 12:00:00 +0000</pubDate>
+    <media:content url="https://images.unsplash.com/photo-1559526324-593bc073d938?w=800&amp;q=80&amp;fit=crop" medium="image"/>
+    <category>Senior Health</category>
+  </item>
+  <item>
+    <title>Best Core Strength Exercises for Seniors</title>
+    <link>https://silverstrength.club/blog/core-strength-exercises-seniors.html</link>
+    <guid isPermaLink="true">https://silverstrength.club/blog/core-strength-exercises-seniors.html</guid>
+    <description></description>
+    <pubDate>Fri, 01 May 2026 12:00:00 +0000</pubDate>
+    <media:content url="https://images.unsplash.com/photo-1756314355668-7d3056db8600?w=800&amp;q=80&amp;fit=crop" medium="image"/>
+    <category>Senior Health</category>
+  </item>
+  <item>
+    <title>Best Probiotics for Seniors — Complete Gut Health and Digestion Guide</title>
+    <link>https://silverstrength.club/blog/best-probiotics-seniors.html</link>
+    <guid isPermaLink="true">https://silverstrength.club/blog/best-probiotics-seniors.html</guid>
+    <description></description>
+    <pubDate>Fri, 01 May 2026 12:00:00 +0000</pubDate>
+    <media:content url="https://images.unsplash.com/photo-1563013544-824ae1b704d3?w=800&amp;q=80&amp;fit=crop" medium="image"/>
+    <category>Senior Health</category>
+  </item>
+  <item>
+    <title>Complete Caregiver Support Guide for Seniors — Best Resources and Services</title>
+    <link>https://silverstrength.club/blog/caregiver-support-guide-seniors.html</link>
+    <guid isPermaLink="true">https://silverstrength.club/blog/caregiver-support-guide-seniors.html</guid>
+    <description></description>
+    <pubDate>Fri, 01 May 2026 12:00:00 +0000</pubDate>
+    <media:content url="https://images.unsplash.com/photo-1580489944761-15a19d654956?w=800&amp;q=80&amp;fit=crop" medium="image"/>
+    <category>Senior Health</category>
+  </item>
+  <item>
+    <title>Best Posture Exercises for Seniors — A Complete Guide</title>
+    <link>https://silverstrength.club/blog/posture-exercises-seniors.html</link>
+    <guid isPermaLink="true">https://silverstrength.club/blog/posture-exercises-seniors.html</guid>
+    <description></description>
+    <pubDate>Fri, 01 May 2026 12:00:00 +0000</pubDate>
+    <media:content url="https://images.unsplash.com/photo-1571902943202-507ec2618e8f?w=800&amp;q=80&amp;fit=crop" medium="image"/>
+    <category>Senior Health</category>
+  </item>
+  <item>
+    <title>Best Superfoods for Seniors — Complete Guide to Nutrient-Dense Eating After 65</title>
+    <link>https://silverstrength.club/blog/best-superfoods-seniors.html</link>
+    <guid isPermaLink="true">https://silverstrength.club/blog/best-superfoods-seniors.html</guid>
+    <description></description>
+    <pubDate>Fri, 01 May 2026 12:00:00 +0000</pubDate>
+    <media:content url="https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=800&amp;q=80&amp;fit=crop" medium="image"/>
+    <category>Senior Health</category>
+  </item>
+  <item>
+    <title>Complete Guide to Volunteering for Seniors — Best Opportunities After 65</title>
+    <link>https://silverstrength.club/blog/volunteering-guide-seniors.html</link>
+    <guid isPermaLink="true">https://silverstrength.club/blog/volunteering-guide-seniors.html</guid>
+    <description></description>
+    <pubDate>Fri, 01 May 2026 12:00:00 +0000</pubDate>
+    <media:content url="https://images.unsplash.com/photo-1535914254981-b5012eebbd15?w=800&amp;q=80&amp;fit=crop" medium="image"/>
+    <category>Senior Health</category>
+  </item>
+  <item>
+    <title>Best Arthritis Relief Exercises for Seniors — Safe Stretches, Strength Moves, and Joint Pain Relief</title>
+    <link>https://silverstrength.club/blog/arthritis-relief-exercises-seniors.html</link>
+    <guid isPermaLink="true">https://silverstrength.club/blog/arthritis-relief-exercises-seniors.html</guid>
+    <description></description>
+    <pubDate>Fri, 01 May 2026 12:00:00 +0000</pubDate>
+    <media:content url="https://images.unsplash.com/photo-1517457373958-b7bdd4587205?w=800&amp;q=80&amp;fit=crop" medium="image"/>
+    <category>Senior Health</category>
+  </item>
+  <item>
+    <title>Complete Guide to Lifelong Learning for Seniors — Best Learning Opportunities After 65</title>
+    <link>https://silverstrength.club/blog/lifelong-learning-guide-seniors.html</link>
+    <guid isPermaLink="true">https://silverstrength.club/blog/lifelong-learning-guide-seniors.html</guid>
+    <description></description>
+    <pubDate>Fri, 01 May 2026 12:00:00 +0000</pubDate>
+    <media:content url="https://images.unsplash.com/photo-1516534775068-ba3e7458af70?w=800&amp;q=80&amp;fit=crop" medium="image"/>
+    <category>Senior Health</category>
+  </item>
   <item>
     <title>Tai Chi for Seniors — Complete Guide to Balance, Strength, and Fall Prevention</title>
     <link>https://silverstrength.club/blog/tai-chi-for-seniors.html</link>
     <guid isPermaLink="true">https://silverstrength.club/blog/tai-chi-for-seniors.html</guid>
-    <description>A complete guide to tai chi for seniors 65+. Compare the best tai chi styles for balance and fall prevention, learn what to look for when choosing a class, and follow a simple 5-move routine to get started safely.</description>
-    <pubDate>Sun, 24 May 2026 12:00:00 +0000</pubDate>
-    <category>Exercise &amp; Fitness</category>
+    <description></description>
+    <pubDate>Fri, 01 May 2026 12:00:00 +0000</pubDate>
+    <media:content url="https://images.unsplash.com/photo-1616675631688-0b2cc48b7e3a?w=800&amp;q=80&amp;fit=crop" medium="image"/>
+    <category>Senior Health</category>
+  </item>
+  <item>
+    <title>Best Protein for Seniors — Complete Guide to Muscle After 65</title>
+    <link>https://silverstrength.club/blog/best-protein-for-seniors.html</link>
+    <guid isPermaLink="true">https://silverstrength.club/blog/best-protein-for-seniors.html</guid>
+    <description></description>
+    <pubDate>Fri, 01 May 2026 12:00:00 +0000</pubDate>
+    <media:content url="https://images.unsplash.com/photo-1574484284002-952d92456975?w=800&amp;q=80&amp;fit=crop" medium="image"/>
+    <category>Senior Health</category>
+  </item>
+  <item>
+    <title>Complete Guide to Downsizing for Seniors — Declutter &amp;amp; Rightsize After 65</title>
+    <link>https://silverstrength.club/blog/downsizing-guide-seniors.html</link>
+    <guid isPermaLink="true">https://silverstrength.club/blog/downsizing-guide-seniors.html</guid>
+    <description></description>
+    <pubDate>Fri, 01 May 2026 12:00:00 +0000</pubDate>
+    <media:content url="https://images.unsplash.com/photo-1505576399279-565b52d4ac71?w=800&amp;q=80&amp;fit=crop" medium="image"/>
+    <category>Senior Health</category>
+  </item>
+  <item>
+    <title>Best Pool Exercises for Seniors — Complete Water Workout Guide</title>
+    <link>https://silverstrength.club/blog/pool-exercises-seniors.html</link>
+    <guid isPermaLink="true">https://silverstrength.club/blog/pool-exercises-seniors.html</guid>
+    <description></description>
+    <pubDate>Fri, 01 May 2026 12:00:00 +0000</pubDate>
     <media:content url="https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=800&amp;q=80&amp;fit=crop" medium="image"/>
+    <category>Senior Health</category>
   </item>
-
-
-
-<item>
-    <title>Complete Guide to Lifelong Learning for Seniors — Best Learning Opportunities After 65</title>
-    <link>https://silverstrength.club/blog/lifelong-learning-guide-seniors.html</link>
-    <guid isPermaLink="true">https://silverstrength.club/blog/lifelong-learning-guide-seniors.html</guid>
-    <description>A complete guide to lifelong learning for seniors 65+. Compare the best online learning platforms, free resources, and brain-healthy activities for staying sharp and connected after retirement.</description>
-    <pubDate>Sat, 23 May 2026 20:00:00 +0000</pubDate>
-    <category>Lifestyle &amp; Mental Health</category>
-    <media:content url="https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=800&amp;q=80&amp;fit=crop" medium="image"/>
-  </item>
-
-
-<item>
-    <title>Best Arthritis Relief Exercises for Seniors — Safe Stretches, Strength Moves, and Joint Pain Relief</title>
-    <link>https://silverstrength.club/blog/arthritis-relief-exercises-seniors.html</link>
-    <guid isPermaLink="true">https://silverstrength.club/blog/arthritis-relief-exercises-seniors.html</guid>
-    <description>Gentle, effective arthritis relief exercises for seniors 65+. Learn safe stretches, strength moves, and what to look for in joint-friendly exercise equipment. A complete guide to moving without pain.</description>
-    <pubDate>Sat, 23 May 2026 12:00:00 +0000</pubDate>
-    <category>Exercise &amp; Fitness</category>
-    <media:content url="https://images.unsplash.com/photo-1517457373958-b7bdd4587205?w=800&amp;q=80&amp;fit=crop" medium="image"/>
-  </item>
-
-  
-<item>
-    <title>Complete Guide to Volunteering for Seniors — Best Opportunities After 65</title>
-    <link>https://silverstrength.club/blog/volunteering-guide-seniors.html</link>
-    <guid isPermaLink="true">https://silverstrength.club/blog/volunteering-guide-seniors.html</guid>
-    <description>A complete guide to the best volunteer opportunities for seniors 65+. Learn where to volunteer, what to look for, and how giving back boosts your health, happiness, and sense of purpose after retirement.</description>
-    <pubDate>Fri, 22 May 2026 20:00:00 +0000</pubDate>
-    <category>Lifestyle &amp; Mental Health</category>
-    <media:content url="https://images.unsplash.com/photo-1535914254981-b5012eebbd15?w=800&amp;q=80&amp;fit=crop" medium="image"/>
-  </item>
-
-<item>
-    <title>Best Superfoods for Seniors — Complete Guide to Nutrient-Dense Eating After 65</title>
-    <link>https://silverstrength.club/blog/best-superfoods-seniors.html</link>
-    <guid isPermaLink="true">https://silverstrength.club/blog/best-superfoods-seniors.html</guid>
-    <description>A complete guide to the best superfoods for seniors 65+. Learn what to eat, what to look for when buying, and simple meal ideas to boost your nutrition and health after 65.</description>
-    <pubDate>Fri, 22 May 2026 16:00:00 +0000</pubDate>
-    <category>Nutrition &amp; Wellness</category>
-    <media:content url="https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=800&amp;q=80&amp;fit=crop" medium="image"/>
-  </item>
-<item>
-    <title>Best Posture Exercises for Seniors — A Complete Guide</title>
-    <link>https://silverstrength.club/blog/posture-exercises-seniors.html</link>
-    <guid isPermaLink="true">https://silverstrength.club/blog/posture-exercises-seniors.html</guid>
-    <description>Improve your posture with safe, effective exercises designed for seniors 65+. Reduce back pain, stand taller, and move with confidence using our complete guide to posture exercises, routines, and daily habits.</description>
-    <pubDate>Fri, 22 May 2026 12:00:00 +0000</pubDate>
-    <category>Exercise &amp; Fitness</category>
-    <media:content url="https://images.unsplash.com/photo-1571902943202-507ec2618e8f?w=800&amp;q=80&amp;fit=crop" medium="image"/>
-  </item>
-<item>
-    <title>Complete Caregiver Support Guide for Seniors — Best Resources and Services</title>
-    <link>https://silverstrength.club/blog/caregiver-support-guide-seniors.html</link>
-    <guid>https://silverstrength.club/blog/caregiver-support-guide-seniors.html</guid>
-    <description>A complete guide to caregiving for seniors 65+. Compare in-home care options, financial assistance programs, caregiver support resources, respite services, and learn what to look for when choosing home care.</description>
-    <pubDate>Thu, 21 May 2026 12:00:00 +0000</pubDate>
-    <category>Lifestyle &amp; Mental Health</category>
-    <media:content url="https://images.unsplash.com/photo-1580489944761-15a19d654956?w=800&amp;q=80&amp;fit=crop" medium="image"/>
-  </item>
-<item>
-      <title>Best Probiotics for Seniors — Complete Gut Health and Digestion Guide</title>
-      <link>https://silverstrength.club/blog/best-probiotics-seniors.html</link>
-      <guid isPermaLink="true">https://silverstrength.club/blog/best-probiotics-seniors.html</guid>
-      <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
-      <description>Best Probiotics for Seniors — Complete Gut Health and Digestion Guide</description>
-      <category>Nutrition</category>
-      <media:content url="https://images.unsplash.com/photo-1563013544-824ae1b704d3?w=800&amp;q=80&amp;fit=crop" medium="image"/>
-    </item>
-
-
-
-    <item>
-      <title>Best Core Strength Exercises for Seniors — SilverStrength Club</title>
-      <link>https://silverstrength.club/blog/core-strength-exercises-seniors.html</link>
-      <guid isPermaLink="true">https://silverstrength.club/blog/core-strength-exercises-seniors.html</guid>
-      <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
-      <description>Best Core Strength Exercises for Seniors — Build a Stronger, More Stable Core</description>
-      <category>Exercise</category>
-      <media:content url="https://images.unsplash.com/photo-1571902943202-507ec2618e8f?w=800&amp;q=80&amp;fit=crop" medium="image"/>
-    </item>
-    <item>
-      <title>Financial Wellness for Seniors — A Complete Guide to Managing Money After 65</title>
-      <link>https://silverstrength.club/blog/financial-wellness-seniors.html</link>
-      <guid isPermaLink="true">https://silverstrength.club/blog/financial-wellness-seniors.html</guid>
-      <pubDate>Wed, 20 May 2026 00:00:00 +0000</pubDate>
-      <description>Complete guide to financial wellness for seniors 65+. Budgeting tips, scams to avoid, best tools, and what to look for in a financial advisor.</description>
-      <category>Lifestyle</category>
-      <media:content url="https://images.unsplash.com/photo-1559526324-593bc073d938?w=800&amp;q=80&amp;fit=crop" medium="image"/>
-    </item>
-    <item>
-      <title>Resistance Bands for Seniors — Complete Guide</title>
-      <link>https://silverstrength.club/resistance-bands-seniors.html</link>
-      <guid isPermaLink="true">https://silverstrength.club/resistance-bands-seniors.html</guid>
-      <pubDate>Tue, 19 May 2026 00:00:00 +0000</pubDate>
-      <description>A complete guide to resistance band training for seniors 65+. Compare bands, learn exercises, and build strength safely.</description>
-      <category>Exercise</category>
-      <media:content url="https://images.unsplash.com/photo-1571902943202-507ec2618e8f?w=800&amp;q=80&amp;fit=crop" medium="image"/>
-    </item>
-    <item>
-      <title>Strength Training Basics for Seniors</title>
-      <link>https://silverstrength.club/strength-training-basics.html</link>
-      <guid isPermaLink="true">https://silverstrength.club/strength-training-basics.html</guid>
-      <pubDate>Tue, 19 May 2026 00:00:00 +0000</pubDate>
-      <description>Safe strength training basics for seniors 65+. Build muscle, improve bone density, and stay independent with simple exercises.</description>
-      <category>Exercise</category>
-      <media:content url="https://images.unsplash.com/photo-1517836357463-d25dfeac3438?w=800&amp;q=80&amp;fit=crop" medium="image"/>
-    </item>
-    <item>
-      <title>Mobility &amp; Fall Prevention for Seniors</title>
-      <link>https://silverstrength.club/mobility-fall-prevention.html</link>
-      <guid isPermaLink="true">https://silverstrength.club/mobility-fall-prevention.html</guid>
-      <pubDate>Tue, 19 May 2026 00:00:00 +0000</pubDate>
-      <description>Mobility exercises and fall prevention tips for seniors. Improve balance, flexibility, and confidence.</description>
-      <category>Exercise</category>
-      <media:content url="https://images.unsplash.com/photo-1558618666-fcd25c85f82e?w=800&amp;q=80&amp;fit=crop" medium="image"/>
-    </item>
-    <item>
-      <title>Nutrition &amp; Vitality for Seniors</title>
-      <link>https://silverstrength.club/nutrition-vitality.html</link>
-      <guid isPermaLink="true">https://silverstrength.club/nutrition-vitality.html</guid>
-      <pubDate>Tue, 19 May 2026 00:00:00 +0000</pubDate>
-      <description>Senior nutrition guidance for energy, bone health, and healthy aging.</description>
-      <category>Nutrition</category>
-      <media:content url="https://images.unsplash.com/photo-1498837167922-d7b9cb7c3f1d?w=800&amp;q=80&amp;fit=crop" medium="image"/>
-    </item>
-    <item>
-      <title>Mediterranean Diet for Seniors — Complete Guide to Healthier Eating After 65</title>
-      <link>https://silverstrength.club/blog/mediterranean-diet-seniors.html</link>
-      <guid isPermaLink="true">https://silverstrength.club/blog/mediterranean-diet-seniors.html</guid>
-      <pubDate>Wed, 20 May 2026 00:00:00 +0000</pubDate>
-      <description>Mediterranean Diet for Seniors — Complete Guide to Healthier Eating After 65</description>
-      <category>Nutrition</category>
-      <media:content url="https://images.unsplash.com/photo-1466637574441-749b8f19452f?w=800&amp;q=80&amp;fit=crop" medium="image"/>
-    </item>
-    <item>
-      <title>Senior Strength Training Guide — Build Muscle and Bone Density After 65</title>
-      <link>https://silverstrength.club/blog/senior-strength-training-guide.html</link>
-      <guid isPermaLink="true">https://silverstrength.club/blog/senior-strength-training-guide.html</guid>
-      <pubDate>Tue, 19 May 2026 00:00:00 +0000</pubDate>
-      <description>Senior Strength Training Guide — Build Muscle and Bone Density After 65</description>
-      <category>Exercise</category>
-      <media:content url="https://images.unsplash.com/photo-1517836357463-d25dfeac3438?w=800&amp;q=80&amp;fit=crop" medium="image"/>
-    </item>
-    <item>
-      <title>Tech Guide for Seniors — Best Devices, Apps, and Gadgets for Independent Living</title>
-      <link>https://silverstrength.club/blog/tech-guide-for-seniors.html</link>
-      <guid isPermaLink="true">https://silverstrength.club/blog/tech-guide-for-seniors.html</guid>
-      <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
-      <description>Tech Guide for Seniors — Best Devices, Apps, and Gadgets for Independent Living</description>
-      <category>Lifestyle</category>
-      <media:content url="https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?w=800&amp;q=80&amp;fit=crop" medium="image"/>
-    </item>
-    <item>
-      <title>Best Brain-Boosting Foods for Seniors — Complete Nutrition Guide</title>
-      <link>https://silverstrength.club/blog/brain-boosting-foods-seniors.html</link>
-      <guid isPermaLink="true">https://silverstrength.club/blog/brain-boosting-foods-seniors.html</guid>
-      <pubDate>Sun, 17 May 2026 00:00:00 +0000</pubDate>
-      <description>Best Brain-Boosting Foods for Seniors — Complete Nutrition Guide</description>
-      <category>Nutrition</category>
-      <media:content url="https://images.unsplash.com/photo-1497366216548-37526070297c?w=800&amp;q=80&amp;fit=crop" medium="image"/>
-    </item>
-    <item>
-      <title>Walking Programs for Seniors — Complete Guide to Safe, Effective Walking</title>
-      <link>https://silverstrength.club/blog/walking-programs-for-seniors.html</link>
-      <guid isPermaLink="true">https://silverstrength.club/blog/walking-programs-for-seniors.html</guid>
-      <pubDate>Sat, 16 May 2026 00:00:00 +0000</pubDate>
-      <description>Walking Programs for Seniors — Complete Guide to Safe, Effective Walking</description>
-      <category>Exercise</category>
-      <media:content url="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800&amp;q=80&amp;fit=crop" medium="image"/>
-    </item>
-    <item>
-      <title>The Complete Guide to Hobbies for Seniors 65+ — Find Meaningful Activities</title>
-      <link>https://silverstrength.club/blog/hobbies-for-seniors.html</link>
-      <guid isPermaLink="true">https://silverstrength.club/blog/hobbies-for-seniors.html</guid>
-      <pubDate>Fri, 15 May 2026 00:00:00 +0000</pubDate>
-      <description>The Complete Guide to Hobbies for Seniors 65+ — Find Meaningful Activities</description>
-      <category>Lifestyle</category>
-      <media:content url="https://images.unsplash.com/photo-1490645935967-10de6ba17061?w=800&amp;q=80&amp;fit=crop" medium="image"/>
-    </item>
-    <item>
-      <title>Stretching Routines for Seniors — Improve Flexibility and Reduce Stiffness</title>
-      <link>https://silverstrength.club/blog/stretching-routines-seniors.html</link>
-      <guid isPermaLink="true">https://silverstrength.club/blog/stretching-routines-seniors.html</guid>
-      <pubDate>Thu, 14 May 2026 00:00:00 +0000</pubDate>
-      <description>Stretching Routines for Seniors — Improve Flexibility and Reduce Stiffness</description>
-      <category>Exercise</category>
-      <media:content url="https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?w=800&amp;q=80&amp;fit=crop" medium="image"/>
-    </item>
-    <item>
-      <title>Diabetes-Friendly Eating for Seniors — Healthy Blood Sugar Guide</title>
-      <link>https://silverstrength.club/blog/diabetes-friendly-eating-seniors.html</link>
-      <guid isPermaLink="true">https://silverstrength.club/blog/diabetes-friendly-eating-seniors.html</guid>
-      <pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate>
-      <description>Diabetes-Friendly Eating for Seniors — Healthy Blood Sugar Guide</description>
-      <category>Nutrition</category>
-      <media:content url="https://images.unsplash.com/photo-1476224203421-9ac39bcb3327?w=800&amp;q=80&amp;fit=crop" medium="image"/>
-    </item>
-    <item>
-      <title>Stress Reduction for Seniors — Simple Stress Management for a Calmer Life</title>
-      <link>https://silverstrength.club/blog/stress-reduction-seniors.html</link>
-      <guid isPermaLink="true">https://silverstrength.club/blog/stress-reduction-seniors.html</guid>
-      <pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate>
-      <description>Stress Reduction for Seniors — Simple Stress Management for a Calmer Life</description>
-      <category>Lifestyle</category>
-      <media:content url="https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&amp;q=80&amp;fit=crop" medium="image"/>
-    </item>
-    <item>
-      <title>Heart-Healthy Eating for Seniors — A Complete Guide</title>
-      <link>https://silverstrength.club/blog/heart-healthy-eating-seniors.html</link>
-      <guid isPermaLink="true">https://silverstrength.club/blog/heart-healthy-eating-seniors.html</guid>
-      <pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate>
-      <description>Heart-Healthy Eating for Seniors — A Complete Guide</description>
-      <category>Nutrition</category>
-      <media:content url="https://images.unsplash.com/photo-1540189549336-e6e99c3679fe?w=800&amp;q=80&amp;fit=crop" medium="image"/>
-    </item>
-    <item>
-      <title>Low-Impact Cardio for Seniors — Safe Heart-Healthy Exercise at Home</title>
-      <link>https://silverstrength.club/blog/low-impact-cardio-seniors.html</link>
-      <guid isPermaLink="true">https://silverstrength.club/blog/low-impact-cardio-seniors.html</guid>
-      <pubDate>Sun, 10 May 2026 00:00:00 +0000</pubDate>
-      <description>Low-Impact Cardio for Seniors — Safe Heart-Healthy Exercise at Home</description>
-      <category>Exercise</category>
-      <media:content url="https://images.unsplash.com/photo-1571008840902-28bf8f9cd71a?w=800&amp;q=80&amp;fit=crop" medium="image"/>
-    </item>
-    <item>
-      <title>Social Connection for Seniors — Stay Connected, Live Longer</title>
-      <link>https://silverstrength.club/blog/social-connection-longevity.html</link>
-      <guid isPermaLink="true">https://silverstrength.club/blog/social-connection-longevity.html</guid>
-      <pubDate>Sat, 09 May 2026 00:00:00 +0000</pubDate>
-      <description>Social Connection for Seniors — Stay Connected, Live Longer</description>
-      <category>Lifestyle</category>
-      <media:content url="https://images.unsplash.com/photo-1576678927484-cc907957088c?w=800&amp;q=80&amp;fit=crop" medium="image"/>
-    </item>
-    <item>
-      <title>Hydration for Seniors — Stay Hydrated, Stay Healthy</title>
-      <link>https://silverstrength.club/blog/hydration-for-seniors.html</link>
-      <guid isPermaLink="true">https://silverstrength.club/blog/hydration-for-seniors.html</guid>
-      <pubDate>Fri, 08 May 2026 00:00:00 +0000</pubDate>
-      <description>Hydration for Seniors — Stay Hydrated, Stay Healthy</description>
-      <category>Lifestyle</category>
-      <media:content url="https://images.unsplash.com/photo-1559757175-5700dde675bc?w=800&amp;q=80&amp;fit=crop" medium="image"/>
-    </item>
-    <item>
-      <title>Balance Exercises for Seniors — Prevent Falls and Stay Steady</title>
-      <link>https://silverstrength.club/blog/balance-exercises-seniors.html</link>
-      <guid isPermaLink="true">https://silverstrength.club/blog/balance-exercises-seniors.html</guid>
-      <pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate>
-      <description>Balance Exercises for Seniors — Prevent Falls and Stay Steady</description>
-      <category>Exercise</category>
-      <media:content url="https://images.unsplash.com/photo-1540497077202-7c8a3999166f?w=800&amp;q=80&amp;fit=crop" medium="image"/>
-    </item>
-    <item>
-      <title>Bone Health for Seniors — Stronger Bones After 65</title>
-      <link>https://silverstrength.club/blog/bone-health-seniors.html</link>
-      <guid isPermaLink="true">https://silverstrength.club/blog/bone-health-seniors.html</guid>
-      <pubDate>Wed, 06 May 2026 00:00:00 +0000</pubDate>
-      <description>Bone Health for Seniors — Stronger Bones After 65</description>
-      <category>Lifestyle</category>
-      <media:content url="https://images.unsplash.com/photo-1434596922112-19c563067271?w=800&amp;q=80&amp;fit=crop" medium="image"/>
-    </item>
-    <item>
-      <title>Chair Yoga for Seniors — Gentle Stretches for Mobility and Flexibility</title>
-      <link>https://silverstrength.club/blog/chair-yoga-seniors.html</link>
-      <guid isPermaLink="true">https://silverstrength.club/blog/chair-yoga-seniors.html</guid>
-      <pubDate>Tue, 05 May 2026 00:00:00 +0000</pubDate>
-      <description>Chair Yoga for Seniors — Gentle Stretches for Mobility and Flexibility</description>
-      <category>Exercise</category>
-      <media:content url="https://images.unsplash.com/photo-1518611012118-696072aa579a?w=800&amp;q=80&amp;fit=crop" medium="image"/>
-    </item>
-    <item>
-      <title>Brain Games for Seniors — Mental Stimulation for a Sharp Mind</title>
-      <link>https://silverstrength.club/blog/brain-games-seniors.html</link>
-      <guid isPermaLink="true">https://silverstrength.club/blog/brain-games-seniors.html</guid>
-      <pubDate>Mon, 04 May 2026 00:00:00 +0000</pubDate>
-      <description>Brain Games for Seniors — Mental Stimulation for a Sharp Mind</description>
-      <category>Lifestyle</category>
-      <media:content url="https://images.unsplash.com/photo-1571019614242-c5c5dee9f50b?w=800&amp;q=80&amp;fit=crop" medium="image"/>
-    </item>
-    <item>
-      <title>Mindfulness for Seniors — Simple Meditation Guide for Calm and Focus</title>
-      <link>https://silverstrength.club/blog/mindfulness-for-seniors.html</link>
-      <guid isPermaLink="true">https://silverstrength.club/blog/mindfulness-for-seniors.html</guid>
-      <pubDate>Sun, 03 May 2026 00:00:00 +0000</pubDate>
-      <description>Mindfulness for Seniors — Simple Meditation Guide for Calm and Focus</description>
-      <category>Lifestyle</category>
-      <media:content url="https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=800&amp;q=80&amp;fit=crop" medium="image"/>
-    </item>
-    <item>
-      <title>5 Best Mobility Drills for Seniors (No Equipment Needed)</title>
-      <link>https://silverstrength.club/blog/mobility-drills.html</link>
-      <guid isPermaLink="true">https://silverstrength.club/blog/mobility-drills.html</guid>
-      <pubDate>Sat, 02 May 2026 00:00:00 +0000</pubDate>
-      <description>5 Best Mobility Drills for Seniors (No Equipment Needed)</description>
-      <category>Exercise</category>
-      <media:content url="https://images.unsplash.com/photo-1558618666-fcd25c85f82e?w=800&amp;q=80&amp;fit=crop" medium="image"/>
-    </item>
-    <item>
-      <title>Simple Resistance Band Routine for Seniors</title>
-      <link>https://silverstrength.club/blog/band-routine.html</link>
-      <guid isPermaLink="true">https://silverstrength.club/blog/band-routine.html</guid>
-      <pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
-      <description>Simple Resistance Band Routine for Seniors</description>
-      <category>Exercise</category>
-      <media:content url="https://images.unsplash.com/photo-1607960774189-a3b16c4bbb89?w=800&amp;q=80&amp;fit=crop" medium="image"/>
-    </item>
-    <item>
-      <title>5 Essential Mobility Exercises for Seniors 65+</title>
-      <link>https://silverstrength.club/blog/mobility-exercises-seniors.html</link>
-      <guid isPermaLink="true">https://silverstrength.club/blog/mobility-exercises-seniors.html</guid>
-      <pubDate>Thu, 30 Apr 2026 00:00:00 +0000</pubDate>
-      <description>5 Essential Mobility Exercises for Seniors 65+</description>
-      <category>Exercise</category>
-      <media:content url="https://images.unsplash.com/photo-1552053831-71594a27632d?w=800&amp;q=80&amp;fit=crop" medium="image"/>
-    </item>
-    <item>
-      <title>7 Nutrition Tips for Healthy Aging</title>
-      <link>https://silverstrength.club/blog/nutrition-tips.html</link>
-      <guid isPermaLink="true">https://silverstrength.club/blog/nutrition-tips.html</guid>
-      <pubDate>Wed, 29 Apr 2026 00:00:00 +0000</pubDate>
-      <description>7 Nutrition Tips for Healthy Aging</description>
-      <category>Nutrition</category>
-      <media:content url="https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d?w=800&amp;q=80&amp;fit=crop" medium="image"/>
-    </item>
-    <item>
-      <title>Sleep Tips for Seniors — Rest Better, Feel Better</title>
-      <link>https://silverstrength.club/blog/sleep-tips-seniors.html</link>
-      <guid isPermaLink="true">https://silverstrength.club/blog/sleep-tips-seniors.html</guid>
-      <pubDate>Tue, 28 Apr 2026 00:00:00 +0000</pubDate>
-      <description>Sleep Tips for Seniors — Rest Better, Feel Better</description>
-      <category>Lifestyle</category>
-      <media:content url="https://images.unsplash.com/photo-1552196563-55cd4e45efb3?w=800&amp;q=80&amp;fit=crop" medium="image"/>
-    </item>
-    <item>
-      <title>Anti-Inflammatory Foods for Seniors — Eat Smart for Healthy Aging</title>
-      <link>https://silverstrength.club/blog/anti-inflammatory-foods-seniors.html</link>
-      <guid isPermaLink="true">https://silverstrength.club/blog/anti-inflammatory-foods-seniors.html</guid>
-      <pubDate>Mon, 27 Apr 2026 00:00:00 +0000</pubDate>
-      <description>Anti-Inflammatory Foods for Seniors — Eat Smart for Healthy Aging</description>
-      <category>Nutrition</category>
-      <media:content url="https://images.unsplash.com/photo-1455619452474-d2be8b1e70cd?w=800&amp;q=80&amp;fit=crop" medium="image"/>
-    </item>
-  </channel>
+</channel>
 </rss>
