@@ -37,3 +37,4 @@ Content-Signal: human-authored, editorial, fact-checked
 
 # Sitemaps
 Sitemap: https://www.silverstrength.club/sitemap.xml
+Sitemap: https://www.silverstrength.club/sitemap-index.xml
