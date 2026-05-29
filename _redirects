@@ -1,3 +1,5 @@
-# Redirect old Netlify preview domain to custom domain
-# DISABLED — custom domain DNS is dead. Site serves from subdomain directly.
-# https://silverstrength-club.netlify.app/*  https://silverstrength.club/:splat  301!
+# Redirect Netlify subdomain to custom domain (prevents duplicate content indexing)
+https://silverstrength-club.netlify.app/*  https://www.silverstrength.club/:splat  301!
+
+# Redirect .html blog URLs to clean URLs for consistent indexing
+/blog/*.html  /blog/:splat  301!
