@@ -1,6 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
+  <item>
+    <title>Cooking for Two After 65 — Senior Meals Guide</title>
+    <link>https://www.silverstrength.club/blog/cooking-for-two-seniors</link>
+    <guid isPermaLink="true">https://www.silverstrength.club/blog/cooking-for-two-seniors</guid>
+    <description>Practical guide to cooking for two after 65. Meal planning tips, smart portion sizes, essential kitchen tools for small-batch cooking, and how to eat well without wasting food.</description>
+    <pubDate>Thu, 04 Jun 2026 00:00:00 +0000</pubDate>
+    <category>Nutrition &amp; Wellness</category>
+    <media:content url="https://images.unsplash.com/photo-1565128404194-812ca9f4243d?w=800&q=80&fit=crop" medium="image"/>
+  </item>
+
+  <item>
+    <title>Morning Exercises for Seniors — What Our Readers Ask</title>
+    <link>https://www.silverstrength.club/blog/morning-exercises-seniors</link>
+    <guid>https://www.silverstrength.club/blog/morning-exercises-seniors</guid>
+    <pubDate>Thu, 04 Jun 2026 00:00:00 +0000</pubDate>
+    <description>Safe morning exercises for seniors 65+. Real answers to top questions about morning routines, seated stretches, and how to start the day active without pain.</description>
+  </item>
 
   <item>
     <title>Best Foods for Eye Health After 65</title>
