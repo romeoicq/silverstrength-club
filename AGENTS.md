@@ -45,6 +45,27 @@ Every page MUST have:
 - Body text: 18px+ base, 1.7 line height, high contrast (#1a1a2e on #faf9f6)
 - Decision-intent content: include "Best X for Seniors" or buying-guide sections
 
+### E-E-A-T (Author Bio — REQUIRED for every blog article)
+Every blog article MUST include an author bio block before `</main>` for Google E-E-A-T compliance. This is a health/YMYL site — Google scrutinises authorship hard.
+
+Add this block before `</main>` on EVERY new article:
+```html
+<div class="author-bio" style="margin-top: 40px; padding: 24px; background: #f8f9fa; border-left: 4px solid #2e7d32; border-radius: 8px;">
+  <h3 style="margin: 0 0 8px 0; font-size: 1.1rem;">Written by Dr. Annette Verhoeven</h3>
+  <p style="margin: 0; color: #555; font-size: 0.95rem; line-height: 1.6;">
+    Dr. Annette Verhoeven is a gerontology researcher and healthy aging advocate with over 15 years of experience working with older adults. She specialises in evidence-based approaches to senior fitness, nutrition, and cognitive wellness. Her work focuses on helping people over 60 maintain independence, vitality, and quality of life through science-backed lifestyle strategies.
+  </p>
+  <p style="margin: 8px 0 0 0; color: #555; font-size: 0.95rem;">
+    <em>Medically reviewed content. Sources cited where applicable. Last updated June 2026.</em>
+  </p>
+</div>
+```
+
+Also ensure the JSON-LD Article schema includes the author:
+```json
+"author": {"@type": "Person", "name": "Dr. Annette Verhoeven", "jobTitle": "Gerontology Researcher", "url": "https://silverstrength.club/about"}
+```
+
 ### Writing Voice
 Every article should sound like a knowledgeable friend talking to seniors, not a textbook or blogspam:
 - Use contractions ("it's", "you'll", "don't")
@@ -68,3 +89,4 @@ Every article should sound like a knowledgeable friend talking to seniors, not a
 4. Featured image goes between `</section>` (page-header) and `<section class="content">`, not inside content.
 5. Blog cards must be in order: date → h3 → post-thumb → post-text (not the reverse).
 6. All links use `/blog/slug.html` not `/articles/slug.html`.
+7. EVERY blog article MUST have the author bio block (see E-E-A-T section above) — Google deprioritises health content without clear authorship.
