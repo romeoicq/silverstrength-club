@@ -51,19 +51,20 @@ Every blog article MUST include an author bio block before `</main>` for Google 
 Add this block before `</main>` on EVERY new article:
 ```html
 <div class="author-bio" style="margin-top: 40px; padding: 24px; background: #f8f9fa; border-left: 4px solid #2e7d32; border-radius: 8px;">
-  <h3 style="margin: 0 0 8px 0; font-size: 1.1rem;">Written by Dr. Annette Verhoeven</h3>
+  <h3 style="margin: 0 0 8px 0; font-size: 1.1rem;">Written by Jack Steele</h3>
+  <p style="margin: 0 0 8px; color: #2d6a4f; font-size: 0.95rem; font-weight: 600;">Health &amp; Fitness Writer | Wellness Researcher</p>
   <p style="margin: 0; color: #555; font-size: 0.95rem; line-height: 1.6;">
-    Dr. Annette Verhoeven is a gerontology researcher and healthy aging advocate with over 15 years of experience working with older adults. She specialises in evidence-based approaches to senior fitness, nutrition, and cognitive wellness. Her work focuses on helping people over 60 maintain independence, vitality, and quality of life through science-backed lifestyle strategies.
+    Jack Steele is a health and fitness writer specializing in evidence-based exercise and nutrition strategies for adults over 50. With over 15 years of research into age-related fitness decline, Jack founded Silver Strength to help older adults build strength, improve mobility, and maintain independence. His work combines peer-reviewed science with practical, real-world fitness advice that anyone can follow.
   </p>
   <p style="margin: 8px 0 0 0; color: #555; font-size: 0.95rem;">
-    <em>Medically reviewed content. Sources cited where applicable. Last updated June 2026.</em>
+    <em>Evidence-based content reviewed against current research. Sources cited where applicable. Last updated June 2026.</em>
   </p>
 </div>
 ```
 
 Also ensure the JSON-LD Article schema includes the author:
 ```json
-"author": {"@type": "Person", "name": "Dr. Annette Verhoeven", "jobTitle": "Gerontology Researcher", "url": "https://silverstrength.club/about"}
+"author": {"@type": "Person", "name": "Jack Steele", "jobTitle": "Health & Fitness Writer", "url": "https://silverstrength.club/about"}
 ```
 
 ### Writing Voice
